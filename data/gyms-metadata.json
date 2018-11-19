@@ -138,6 +138,9 @@
 	"239276": {
 		"nickname": "Mural Oakland (Mad Mex)"
 	},
+	"240824": {
+		"hasExTag": true
+	},
 	"241054": {
 		"hasExTag": true,
 		"hasHostedEx": true
@@ -327,7 +330,8 @@
 		"additionalInformation": "Park across the street at the Eat’n’Park."
 	},
 	"601775": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"602591": {
 		"hasExTag": true,
@@ -347,7 +351,8 @@
 		"hasHostedEx": true
 	},
 	"652780": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"653733": {
 		"hasExTag": true,
@@ -457,6 +462,9 @@
 	"924214": {
 		"nickname": "Calvary United Methodist Church (Chateau)"
 	},
+	"931180": {
+		"hasExTag": true
+	},
 	"936692": {
 		"nickname": "Veterans Memorial (Robinson / McKees Rocks)"
 	},
@@ -560,7 +568,8 @@
 		"hasExTag": true
 	},
 	"1159210": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"1159296": {
 		"nickname": "Bayne Park",
@@ -625,6 +634,9 @@
 		"hasExTag": true,
 		"hasHostedEx": true
 	},
+	"2456484": {
+		"hasExTag": true
+	},
 	"2456509": {
 		"hasExTag": true,
 		"hasHostedEx": true
@@ -643,6 +655,12 @@
 		"hasHostedEx": true
 	},
 	"2456691": {
+		"hasExTag": true
+	},
+	"2456723": {
+		"hasExTag": true
+	},
+	"2456724": {
 		"hasExTag": true
 	},
 	"2456778": {
@@ -675,6 +693,9 @@
 	},
 	"3096195": {
 		"nickname": "War Memorial (Brackenridge)"
+	},
+	"3096246": {
+		"hasExTag": true
 	},
 	"3096270": {
 		"nickname": "Community Library of Allegheny Valley (Harrison Branch)"
@@ -776,6 +797,10 @@
 	},
 	"9535132": {
 		"nickname": "Second Baptist Church (Mt Pleasant)"
+	},
+	"9535257": {
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"10871762": {
 		"nickname": "US Post Office (Larimer)"
@@ -891,6 +916,9 @@
 	"46954466": {
 		"additionalInformation": "Please be mindful this is a small parking lot with two businesses that are open. You may want to park off-site and walk to it so we don’t get banned from the lot or they have the gym removed."
 	},
+	"48004750": {
+		"hasExTag": true
+	},
 	"48976304": {
 		"nickname": "Sprint Store (Century III Mall)",
 		"hasExTag": true
@@ -990,6 +1018,9 @@
 	"49635912": {
 		"nickname": "Starbucks (Tarentum)"
 	},
+	"49635913": {
+		"hasExTag": true
+	},
 	"49849707": {
 		"hasExTag": true
 	},
@@ -1000,6 +1031,9 @@
 		"hasExTag": true
 	},
 	"49844546": {
+		"hasExTag": true
+	},
+	"0cec1e43a2c14dafa18a19ee5921495b.16": {
 		"hasExTag": true
 	},
 	"1047ca318fb14469ab46933e7df9c3c4.16": {
@@ -1033,7 +1067,8 @@
 	},
 	"c1b674a2d45d4c30864040c671bebd70.16": {
 		"additionalInformation": "You cannot drive directly to this gym - it is on a walking trail.",
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"c4060eb27aba43e4adc8ed3174dbd7bf.16": {
 		"additionalInformation": "Directions: Park in the Duff Park parking lot off of School Road. This gym is about 1/4 mile walk down the bike trail.",
