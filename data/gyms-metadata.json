@@ -564,6 +564,9 @@
 	"1130272": {
 		"hasExTag": true
 	},
+	"1141329": {
+		"hasExTag": true
+	},
 	"1147239": {
 		"hasExTag": true
 	},
@@ -921,7 +924,8 @@
 	},
 	"48976304": {
 		"nickname": "Sprint Store (Century III Mall)",
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"49000737": {
 		"nickname": "Starbucks (Waterfront)"
