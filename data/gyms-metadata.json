@@ -129,9 +129,6 @@
 	"271673": {
 		"hasExTag": true
 	},
-	"283097": {
-		"additionalInformation": "Kings Restaurant has asked players not to park in their lot for raids.  Please be respectful and find another place to park."
-	},
 	"234863": {
 		"nickname": "St. John&#039;s Lutheran Church (Cranberry)"
 	},
@@ -341,6 +338,9 @@
 		"nickname": "Carnegie Library of Pittsburgh (Beechview)"
 	},
 	"605772": {
+		"hasExTag": true
+	},
+	"606820": {
 		"hasExTag": true
 	},
 	"623129": {
@@ -929,6 +929,7 @@
 	},
 	"49000737": {
 		"nickname": "Starbucks (Waterfront)"
+		"hasExTag": true
 	},
 	"49020401": {
 		"nickname": "Christ Episcopal Church (Oil City)"
@@ -956,14 +957,16 @@
 		"additionalInformation": "This location has *very limited* parking."
 	},
 	"49080428": {
-		"nickname": "Starbucks (Market Square)"
+		"nickname": "Starbucks (Market Square)",
+		"hasExTag": true
 	},
 	"49102837": {
 		"nickname": "Sprint Store (Fifth / Smithfield)",
 		"additionalTerms": "kaufmanns clock"
 	},
 	"49102839": {
-		"nickname": "Sprint Store (Market Square)"
+		"nickname": "Sprint Store (Market Square)",
+		"hasExTag": true
 	},
 	"49119082": {
 		"nickname": "Forbes Road (Boswell)"
@@ -1017,7 +1020,8 @@
 		"nickname": "Calvary Baptist Church (Waynesburg)"
 	},
 	"49548047": {
-		"nickname": "Starbucks (Canonsburg)"
+		"nickname": "Starbucks (Canonsburg)",
+		"hasExTag": true
 	},
 	"49635912": {
 		"nickname": "Starbucks (Tarentum)"
@@ -1097,6 +1101,7 @@
 		"additionalInformation": "The owner of the business (Iron Factory) prohibits non patrons from parking in his lot. He has recently added signs stipulating violators are subject to a $300 fine so raid at your own risk!"
 	},
 	"fd727434709f4da989dc6e0293ac7679.16": {
+		"additionalInformation": "Park hours are dawn to dusk.",
 		"hasExTag": true,
 		"hasHostedEx": true
 	}
