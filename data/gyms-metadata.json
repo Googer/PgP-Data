@@ -534,9 +534,6 @@
 	"1074432": {
 		"hasExTag": true
 	},
-	"1080944": {
-		"hasExTag": true
-	},
 	"1082035": {
 		"hasExTag": true
 	},
@@ -580,6 +577,9 @@
 		"hasHostedEx": true
 	},
 	"1167264": {
+		"hasExTag": true
+	},
+	"1169030": {
 		"hasExTag": true
 	},
 	"1169680": {
@@ -626,6 +626,9 @@
 		"hasExTag": true,
 		"hasHostedEx": true
 	},
+	"2456368": {
+		"hasExTag": true
+	},
 	"2456374": {
 		"hasExTag": true,
 		"hasHostedEx": true
@@ -656,6 +659,9 @@
 	"2456609": {
 		"hasExTag": true,
 		"hasHostedEx": true
+	},
+	"2456611": {
+		"hasExTag": true
 	},
 	"2456691": {
 		"hasExTag": true
@@ -882,6 +888,9 @@
 	"17423109": {
 		"nickname": "US Post Office (New Salem)"
 	},
+	"22684896": {
+		"hasExTag": true
+	},
 	"22685145": {
 		"nickname": "Veterans Memorial (Evans City)"
 	},
@@ -954,7 +963,9 @@
 	},
 	"49080427": {
 		"nickname": "Starbucks (Green Tree)",
-		"additionalInformation": "This location has *very limited* parking."
+		"additionalInformation": "This location has *very limited* parking.",
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"49080428": {
 		"nickname": "Starbucks (Market Square)",
@@ -962,7 +973,8 @@
 	},
 	"49102837": {
 		"nickname": "Sprint Store (Fifth / Smithfield)",
-		"additionalTerms": "kaufmanns clock"
+		"additionalTerms": "kaufmanns clock",
+		"hasExTag": true
 	},
 	"49102839": {
 		"nickname": "Sprint Store (Market Square)",
@@ -1000,7 +1012,9 @@
 		"nickname": "Sprint Store (Washington)"
 	},
 	"49397276": {
-		"nickname": "Starbucks (Washington)"
+		"nickname": "Starbucks (Washington)",
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"49404609": {
 		"additionalInformation": "Be prepared for a 1 hour hike to access this gym.",
@@ -1021,7 +1035,8 @@
 	},
 	"49548047": {
 		"nickname": "Starbucks (Canonsburg)",
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"49635912": {
 		"nickname": "Starbucks (Tarentum)"
@@ -1052,6 +1067,9 @@
 		"hasHostedEx": true
 	},
 	"3b7c4affebb14f939358de456b2beaa6.16": {
+		"hasExTag": true
+	},
+	"5e839cd34c364ee0aa19869f54212218.16": {
 		"hasExTag": true
 	},
 	"6631bc95d57742cc98ecda160d22c301.16": {
