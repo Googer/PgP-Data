@@ -650,6 +650,9 @@
 	"2456511": {
 		"nickname": "St. Ferd"
 	},
+	"2456519": {
+		"hasExTag": true
+	},
 	"2456535": {
 		"hasExTag": true
 	},
@@ -887,6 +890,12 @@
 	},
 	"17423109": {
 		"nickname": "US Post Office (New Salem)"
+	},
+	"22684877": {
+		"hasExTag": true
+	},
+	"22684879": {
+		"hasExTag": true
 	},
 	"22684896": {
 		"hasExTag": true
