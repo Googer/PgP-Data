@@ -1105,6 +1105,8 @@
 	},
 	"49058437": {
 		"nickname": "Starbucks (Forbes / Craig)"
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"49080427": {
 		"nickname": "Starbucks (Green Tree)",
@@ -1119,7 +1121,8 @@
 	"49102837": {
 		"nickname": "Sprint Store (Fifth / Smithfield)",
 		"additionalTerms": "kaufmanns clock",
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"49102839": {
 		"nickname": "Sprint Store (Market Square)",
