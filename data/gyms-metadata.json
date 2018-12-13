@@ -103,6 +103,9 @@
 	"192395": {
 		"hasExTag": true
 	},
+	"193447": {
+		"hasExTag": true
+	},
 	"198016": {
 		"nickname": "First Christian Church (McKeesport)"
 	},
@@ -126,9 +129,6 @@
 	"230815": {
 		"hasExTag": true
 	},
-	"271673": {
-		"hasExTag": true
-	},
 	"234863": {
 		"nickname": "St. John&#039;s Lutheran Church (Cranberry)"
 	},
@@ -145,12 +145,18 @@
 	"248713": {
 		"nickname": "Pittsburgh Post Office (Robinson)"
 	},
+	"250612": {
+		"hasExTag": true
+	},
 	"253459": {
 		"hasExTag": true,
 		"hasHostedEx": true
 	},
 	"257629": {
 		"nickname": "Mayernik Park Fountain"
+	},
+	"271673": {
+		"hasExTag": true
 	},
 	"273168": {
 		"hasExTag": true
@@ -179,6 +185,9 @@
 	"314965": {
 		"additionalTerms": "walnut"
 	},
+	"316721": {
+		"hasExTag": true
+	},
 	"319147": {
 		"nickname": "Carnegie Library of Pittsburgh (Sheraden)"
 	},
@@ -187,6 +196,12 @@
 	},
 	"327931": {
 		"nickname": "Pittsburgh Post Office (Brookline)"
+	},
+	"332598": {
+		"hasExTag": true
+	},
+	"333616": {
+		"hasExTag": true
 	},
 	"336330": {
 		"nickname": "Pittsburgh Post Office (South Side Flats)"
@@ -201,6 +216,9 @@
 	"358377": {
 		"nickname": "Good Shepherd Catholic Parish (Braddock Hills)"
 	},
+	"362963": {
+		"hasExTag": true
+	},
 	"364063": {
 		"nickname": "First United Presbyterian Church (Mannington)"
 	},
@@ -209,6 +227,9 @@
 	},
 	"371146": {
 		"nickname": "Calvary Baptist Church (Morgantown)"
+	},
+	"388568": {
+		"hasExTag": true
 	},
 	"389065": {
 		"nickname": "World War Memorial (Scott Park Pool)",
@@ -246,6 +267,9 @@
 	"422137": {
 		"hasExTag": true
 	},
+	"437283": {
+		"hasExTag": true
+	},
 	"444359": {
 		"hasExTag": true,
 		"hasHostedEx": true
@@ -263,6 +287,9 @@
 	"478777": {
 		"hasExTag": true
 	},
+	"483491": {
+		"hasExTag": true
+	},
 	"485619": {
 		"nickname": "US Post Office (Koppel)"
 	},
@@ -278,6 +305,9 @@
 	},
 	"518477": {
 		"additionalInformation": "Sunday Mass times: 8:30 & 11:00 am"
+	},
+	"523281": {
+		"hasExTag": true
 	},
 	"524148": {
 		"hasExTag": true
@@ -326,6 +356,9 @@
 	"600821": {
 		"additionalInformation": "Park across the street at the Eat’n’Park."
 	},
+	"601623": {
+		"hasExTag": true
+	},
 	"601775": {
 		"hasExTag": true,
 		"hasHostedEx": true
@@ -343,6 +376,9 @@
 	"606820": {
 		"hasExTag": true
 	},
+	"613590": {
+		"hasExTag": true
+	},
 	"623129": {
 		"hasExTag": true
 	},
@@ -358,9 +394,12 @@
 		"hasExTag": true,
 		"hasHostedEx": true
 	},
+	"665080": {
+		"hasExTag": true
+	},
 	"675113": {
 		"nickname": "American Legion Post 82 (Carnegie)",
-		"additionalInformation" : "Please avoid the Legion's property.  Park somewhere else and raid from the sidewalk across the street."
+		"additionalInformation": "Please avoid the Legion's property.  Park somewhere else and raid from the sidewalk across the street."
 	},
 	"677808": {
 		"nickname": "Oakland Mural (Sorrento's)"
@@ -404,6 +443,9 @@
 		"hasExTag": true,
 		"hasHostedEx": true
 	},
+	"790871": {
+		"hasExTag": true
+	},
 	"792701": {
 		"nickname": "Holy Trinity Lutheran Church (Beaver)"
 	},
@@ -435,11 +477,20 @@
 	"818975": {
 		"nickname": "US Post Office (Crawford-Roberts)"
 	},
+	"819718": {
+		"hasExTag": true
+	},
 	"843407": {
 		"nickname": "Zion Lutheran Church (Penn Hills)"
 	},
+	"846620": {
+		"hasExTag": true
+	},
 	"859601": {
 		"nickname": "White Park (Easr Parkway)"
+	},
+	"859964": {
+		"hasExTag": true
 	},
 	"869936": {
 		"hasExTag": true
@@ -454,10 +505,16 @@
 	"886152": {
 		"hasExTag": true
 	},
+	"891158": {
+		"hasExTag": true
+	},
 	"909032": {
 		"nickname": "Scott Township War Memorial (Scott Park Playground)",
 		"hasExTag": true,
 		"hasHostedEx": true
+	},
+	"913715": {
+		"hasExTag": true
 	},
 	"924214": {
 		"nickname": "Calvary United Methodist Church (Chateau)"
@@ -478,11 +535,17 @@
 	"952320": {
 		"hasExTag": true
 	},
+	"970589": {
+		"hasExTag": true
+	},
 	"979603": {
 		"hasExTag": true
 	},
 	"980042": {
 		"nickname": "Veterans Memorial (Munhall)"
+	},
+	"980602": {
+		"hasExTag": true
 	},
 	"980883": {
 		"additionalTerms": "dino"
@@ -502,6 +565,12 @@
 	"1021108": {
 		"hasExTag": true
 	},
+	"1025944": {
+		"hasExTag": true
+	},
+	"1027860": {
+		"hasExTag": true
+	},
 	"1033578": {
 		"nickname": "Trinity Lutheran Church (Verona)"
 	},
@@ -514,6 +583,9 @@
 	},
 	"1041410": {
 		"nickname": "American Legion Post 490 (Castle Shannon)"
+	},
+	"1048595": {
+		"hasExTag": true
 	},
 	"1052243": {
 		"additionalInformation": "To avoid the building owners removing this gym, please park near the end of the lot and do not block the stairs while raiding."
@@ -611,12 +683,14 @@
 	"1204855": {
 		"nickname": "Bridgeville Boro Fire Department"
 	},
+	"1205817": {
+		"hasExTag": true
+	},
 	"1207208": {
 		"nickname": "Pittsburgh Post Office (Ross)"
 	},
-	"2456393": {
-		"hasExTag": true,
-		"hasHostedEx": true
+	"2456330": {
+		"hasExTag": true
 	},
 	"2456356": {
 		"hasExTag": true,
@@ -633,12 +707,22 @@
 		"hasExTag": true,
 		"hasHostedEx": true
 	},
+	"2456393": {
+		"hasExTag": true,
+		"hasHostedEx": true
+	},
 	"2456404": {
 		"nickname": "Calvary Baptist Church (Allison Park)"
 	},
 	"2456432": {
 		"hasExTag": true,
 		"hasHostedEx": true
+	},
+	"2456459": {
+		"hasExTag": true
+	},
+	"2456470": {
+		"hasExTag": true
 	},
 	"2456484": {
 		"hasExTag": true
@@ -673,6 +757,12 @@
 		"hasExTag": true
 	},
 	"2456724": {
+		"hasExTag": true
+	},
+	"2456774": {
+		"hasExTag": true
+	},
+	"2456776": {
 		"hasExTag": true
 	},
 	"2456778": {
@@ -721,14 +811,26 @@
 	"3096320": {
 		"nickname": "First United Presbyterian Church (Tarentum)"
 	},
+	"3549124": {
+		"hasExTag": true
+	},
 	"3549134": {
 		"nickname": "First Presbyterian Church (Bentleyville)"
+	},
+	"3549200": {
+		"hasExTag": true
 	},
 	"3549270": {
 		"nickname": "First United Methodist Church (Belle Vernon)"
 	},
 	"3549323": {
 		"nickname": "Old Main (Washington)"
+	},
+	"3549420": {
+		"hasExTag": true
+	},
+	"3549421": {
+		"hasExTag": true
 	},
 	"5389575": {
 		"hasExTag": true,
@@ -742,7 +844,8 @@
 		"hasHostedEx": true
 	},
 	"5389831": {
-		"nickname": "Veterans Memorial (Clairton)"
+		"nickname": "Veterans Memorial (Clairton)",
+		"hasExTag": true
 	},
 	"5389890": {
 		"hasExTag": true,
@@ -752,11 +855,14 @@
 		"hasExTag": true,
 		"hasHostedEx": true
 	},
-	"5390361": {
-		"additionalInformation": "The owner has had issues with players on the property so please try to stay off of it in order to avoid conflict with authorities."
+	"5390182": {
+		"hasExTag": true
 	},
 	"5390266": {
 		"nickname": "US Post Office (Elrama)"
+	},
+	"5390361": {
+		"additionalInformation": "The owner has had issues with players on the property so please try to stay off of it in order to avoid conflict with authorities."
 	},
 	"5390367": {
 		"nickname": "US Post Office (McKeesport)"
@@ -810,6 +916,12 @@
 	"9535132": {
 		"nickname": "Second Baptist Church (Mt Pleasant)"
 	},
+	"9535213": {
+		"hasExTag": true
+	},
+	"9535254": {
+		"hasExTag": true
+	},
 	"9535257": {
 		"hasExTag": true,
 		"hasHostedEx": true
@@ -834,7 +946,19 @@
 		"additionalInformation": "This gym has very poor phone service. AT&T is the only one that consistently works here.",
 		"hasExTag": true
 	},
+	"10872892": {
+		"hasExTag": true
+	},
+	"10872898": {
+		"hasExTag": true
+	},
+	"10872908": {
+		"hasExTag": true
+	},
 	"10873058": {
+		"hasExTag": true
+	},
+	"10873060": {
 		"hasExTag": true
 	},
 	"11639187": {
@@ -903,6 +1027,12 @@
 	"22685145": {
 		"nickname": "Veterans Memorial (Evans City)"
 	},
+	"22698048": {
+		"hasExTag": true
+	},
+	"22698050": {
+		"hasExTag": true
+	},
 	"24870551": {
 		"nickname": "US Post Office (Clark)"
 	},
@@ -916,12 +1046,18 @@
 	"26874192": {
 		"hasExTag": true
 	},
+	"26874198": {
+		"hasExTag": true
+	},
 	"26874241": {
 		"hasExTag": true,
 		"hasHostedEx": true
 	},
 	"33192061": {
 		"nickname": "Trinity Lutheran Church (Connellsville)"
+	},
+	"39557051": {
+		"hasExTag": true
 	},
 	"40660896": {
 		"additionalInformation": "The seminary is private property and we have been asked not to be on the premises.",
@@ -1036,11 +1172,29 @@
 		"additionalInformation": "Be prepared for a 1 hour hike to access this gym.",
 		"hasExTag": true
 	},
+	"49435301": {
+		"hasExTag": true
+	},
+	"49435302": {
+		"hasExTag": true
+	},
+	"49435303": {
+		"hasExTag": true
+	},
 	"49438660": {
 		"nickname": "Church of Christ (Fairview)"
 	},
 	"49444757": {
 		"nickname": "Calvary Baptist Church (Waynesburg)"
+	},
+	"49455807": {
+		"hasExTag": true
+	},
+	"49455825": {
+		"hasExTag": true
+	},
+	"49455826": {
+		"hasExTag": true
 	},
 	"49548047": {
 		"nickname": "Starbucks (Canonsburg)",
@@ -1053,16 +1207,16 @@
 	"49635913": {
 		"hasExTag": true
 	},
-	"49849707": {
-		"hasExTag": true
-	},
-	"49850446": {
-		"hasExTag": true
-	},
 	"49802645": {
 		"hasExTag": true
 	},
 	"49844546": {
+		"hasExTag": true
+	},
+	"49849707": {
+		"hasExTag": true
+	},
+	"49850446": {
 		"hasExTag": true
 	},
 	"0cec1e43a2c14dafa18a19ee5921495b.16": {
@@ -1131,5 +1285,29 @@
 		"additionalInformation": "Park hours are dawn to dusk.",
 		"hasExTag": true,
 		"hasHostedEx": true
+	},
+	"194f883f34544d9c9afe2fe964777aad.16": {
+		"hasExTag": true
+	},
+	"1bf5b5fc6ac74489bf4904a642171259.16": {
+		"hasExTag": true
+	},
+	"43cf1431bc564f93957de89960e8afc1.12": {
+		"hasExTag": true
+	},
+	"6b12a26d22554c609c307e6dc740fb1f.16": {
+		"hasExTag": true
+	},
+	"8c709cf24010444d93d4fab2e7bbc3da.16": {
+		"hasExTag": true
+	},
+	"f004cbf22a9840b0a4e61a2e89d24356.16": {
+		"hasExTag": true
+	},
+	"f6e3bc240208491883d8b954c2f1a90e.16": {
+		"hasExTag": true
+	},
+	"fabd5c7a722842aeae27f3e3bbb6f8c0.16": {
+		"hasExTag": true
 	}
 }
