@@ -375,7 +375,8 @@
 		"hasExTag": true
 	},
 	"606820": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"613590": {
 		"hasExTag": true
@@ -540,7 +541,8 @@
 		"hasExTag": true
 	},
 	"979603": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"980042": {
 		"nickname": "Veterans Memorial (Munhall)"
@@ -725,6 +727,9 @@
 	"2456484": {
 		"hasExTag": true
 	},
+	"2456492": {
+		"additionalInformation": "Church has asked trainers not to play and/or raid here in the past. Raid at your own risk and respect all requests to leave."
+	},
 	"2456509": {
 		"hasExTag": true,
 		"hasHostedEx": true
@@ -758,9 +763,6 @@
 		"hasExTag": true
 	},
 	"2456774": {
-		"hasExTag": true
-	},
-	"2456776": {
 		"hasExTag": true
 	},
 	"2456778": {
@@ -1081,7 +1083,8 @@
 	},
 	"49000737": {
 		"nickname": "Starbucks (Waterfront)",
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"49020401": {
 		"nickname": "Christ Episcopal Church (Oil City)"
@@ -1114,7 +1117,8 @@
 	},
 	"49080428": {
 		"nickname": "Starbucks (Market Square)",
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"49102837": {
 		"nickname": "Sprint Store (Fifth / Smithfield)",
@@ -1130,7 +1134,9 @@
 		"nickname": "Forbes Road (Boswell)"
 	},
 	"49188248": {
-		"nickname": "Starbucks (Siebert / McKnight)"
+		"nickname": "Starbucks (Siebert / McKnight)",
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"49205837": {
 		"nickname": "Sprint Store (Penn Center East)",
@@ -1143,7 +1149,8 @@
 		"hasHostedEx": true
 	},
 	"49233728": {
-		"nickname": "Starbucks (McKnight Target)"
+		"nickname": "Starbucks (McKnight Target)",
+		"hasExTag": true
 	},
 	"49308704": {
 		"nickname": "Sprint Store (Westmoreland Mall)",
@@ -1288,7 +1295,8 @@
 		"hasHostedEx": true
 	},
 	"194f883f34544d9c9afe2fe964777aad.16": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"1bf5b5fc6ac74489bf4904a642171259.16": {
 		"hasExTag": true
