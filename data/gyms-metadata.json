@@ -382,7 +382,8 @@
 		"hasExTag": true
 	},
 	"623129": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"623943": {
 		"hasExTag": true,
@@ -397,7 +398,8 @@
 		"hasHostedEx": true
 	},
 	"665080": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"675113": {
 		"nickname": "American Legion Post 82 (Carnegie)",
@@ -701,7 +703,8 @@
 		"hasHostedEx": true
 	},
 	"2456368": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"2456374": {
 		"hasExTag": true,
@@ -1226,6 +1229,9 @@
 	},
 	"49850446": {
 		"hasExTag": true
+	},
+	"243389": {
+		"additionalInformation": "This location is located on a busy road with no parking and limited to no standing room."
 	},
 	"0cec1e43a2c14dafa18a19ee5921495b.16": {
 		"hasExTag": true
