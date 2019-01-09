@@ -142,6 +142,9 @@
 		"hasExTag": true,
 		"hasHostedEx": true
 	},
+	"243389": {
+		"additionalInformation": "This location is located on a busy road with no parking and limited to no standing room."
+	},
 	"248713": {
 		"nickname": "Pittsburgh Post Office (Robinson)"
 	},
@@ -1230,13 +1233,17 @@
 	"49850446": {
 		"hasExTag": true
 	},
-	"243389": {
-		"additionalInformation": "This location is located on a busy road with no parking and limited to no standing room."
-	},
 	"0cec1e43a2c14dafa18a19ee5921495b.16": {
 		"hasExTag": true
 	},
 	"1047ca318fb14469ab46933e7df9c3c4.16": {
+		"hasExTag": true
+	},
+	"194f883f34544d9c9afe2fe964777aad.16": {
+		"hasExTag": true,
+		"hasHostedEx": true
+	},
+	"1bf5b5fc6ac74489bf4904a642171259.16": {
 		"hasExTag": true
 	},
 	"3647f779c20b4ae6acfe38f95f337c77.16": {
@@ -1246,14 +1253,26 @@
 	"3b7c4affebb14f939358de456b2beaa6.16": {
 		"hasExTag": true
 	},
+	"43cf1431bc564f93957de89960e8afc1.12": {
+		"hasExTag": true
+	},
 	"5e839cd34c364ee0aa19869f54212218.16": {
 		"hasExTag": true
 	},
 	"6631bc95d57742cc98ecda160d22c301.16": {
 		"hasExTag": true
 	},
+	"6b12a26d22554c609c307e6dc740fb1f.16": {
+		"hasExTag": true
+	},
+	"82a95c45efad43e3807226f5af3c03a1.16": {
+		"hasExTag": true
+	},
 	"895cee3fad784837a9d5c642d2386d95.16": {
 		"additionalInformation": "This location is a T stop and the only access points are from a train or down a steep set of stairs.  Please be careful getting to this location."
+	},
+	"8c709cf24010444d93d4fab2e7bbc3da.16": {
+		"hasExTag": true
 	},
 	"8ceb66f20e654d91a1b86c8dcb744883.16": {
 		"hasExTag": true
@@ -1286,43 +1305,27 @@
 	"e8d7813999ea49e6a8b5e0a97b10b97a.16": {
 		"hasExTag": true
 	},
+	"f004cbf22a9840b0a4e61a2e89d24356.16": {
+		"hasExTag": true
+	},
 	"f2d659ba623b4b9b92a1d389d5a4c1ec.16": {
 		"hasExTag": true
 	},
 	"f497c6ce865d48ea848dc5c7fc1ea7e2.16": {
 		"hasExTag": true
 	},
+	"f6e3bc240208491883d8b954c2f1a90e.16": {
+		"hasExTag": true
+	},
 	"fa2ee47d8848435d856b3b9391dd2184.16": {
 		"additionalInformation": "The owner of the business (Iron Factory) prohibits non patrons from parking in his lot. He has recently added signs stipulating violators are subject to a $300 fine so raid at your own risk!"
+	},
+	"fabd5c7a722842aeae27f3e3bbb6f8c0.16": {
+		"hasExTag": true
 	},
 	"fd727434709f4da989dc6e0293ac7679.16": {
 		"additionalInformation": "Park hours are dawn to dusk.",
 		"hasExTag": true,
 		"hasHostedEx": true
-	},
-	"194f883f34544d9c9afe2fe964777aad.16": {
-		"hasExTag": true,
-		"hasHostedEx": true
-	},
-	"1bf5b5fc6ac74489bf4904a642171259.16": {
-		"hasExTag": true
-	},
-	"43cf1431bc564f93957de89960e8afc1.12": {
-		"hasExTag": true
-	},
-	"6b12a26d22554c609c307e6dc740fb1f.16": {
-		"hasExTag": true
-	},
-	"8c709cf24010444d93d4fab2e7bbc3da.16": {
-		"hasExTag": true
-	},
-	"f004cbf22a9840b0a4e61a2e89d24356.16": {
-		"hasExTag": true
-	},
-	"f6e3bc240208491883d8b954c2f1a90e.16": {
-		"hasExTag": true
-	},
-	"fabd5c7a722842aeae27f3e3bbb6f8c0.16": {
-		"hasExTag": true
 	}
 }
