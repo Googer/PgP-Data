@@ -348,7 +348,8 @@
 		"hasHostedEx": true
 	},
 	"569946": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"570670": {
 		"hasExTag": true,
@@ -1134,7 +1135,8 @@
 	},
 	"49102839": {
 		"nickname": "Sprint Store (Market Square)",
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"49119082": {
 		"nickname": "Forbes Road (Boswell)"
@@ -1217,6 +1219,8 @@
 	},
 	"49635912": {
 		"nickname": "Starbucks (Tarentum)"
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"49635913": {
 		"hasExTag": true
@@ -1257,7 +1261,8 @@
 		"hasExTag": true
 	},
 	"5e839cd34c364ee0aa19869f54212218.16": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"6631bc95d57742cc98ecda160d22c301.16": {
 		"hasExTag": true
