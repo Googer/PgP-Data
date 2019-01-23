@@ -243,7 +243,8 @@
 		"hasExTag": true
 	},
 	"397094": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"404945": {
 		"hasExTag": true,
@@ -1158,7 +1159,8 @@
 	},
 	"49233728": {
 		"nickname": "Starbucks (McKnight Target)",
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"49308704": {
 		"nickname": "Sprint Store (Westmoreland Mall)",
@@ -1237,6 +1239,9 @@
 	"49850446": {
 		"hasExTag": true
 	},
+	"0b59a31674844c31a7344c50febebd98.16": {
+		"additionalInformation": "This gym is near a Girl Scout cabin where many Girl Scouts are dropped off for sleepovers. Please use good judgement and avoid it during drop off / pick up times and respect any requests to leave the property."
+	},
 	"0cec1e43a2c14dafa18a19ee5921495b.16": {
 		"hasExTag": true
 	},
@@ -1255,7 +1260,8 @@
 		"hasHostedEx": true
 	},
 	"3b7c4affebb14f939358de456b2beaa6.16": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"43cf1431bc564f93957de89960e8afc1.12": {
 		"hasExTag": true
@@ -1303,6 +1309,9 @@
 	},
 	"d23a46f42440402bbbcb3e828729a6b3.16": {
 		"hasExTag": true
+	},
+	"de0d9307def54a999a5d52e4b9c988f8.16": {
+		"additionalInformation": "The road is closed - the gym is inaccessible for raids."
 	},
 	"e4fb121bb28444a380b5bc92a1f0a946.16": {
 		"hasExTag": true
