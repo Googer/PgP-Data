@@ -592,7 +592,8 @@
 		"nickname": "American Legion Post 490 (Castle Shannon)"
 	},
 	"1048595": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"1052243": {
 		"additionalInformation": "To avoid the building owners removing this gym, please park near the end of the lot and do not block the stairs while raiding."
@@ -759,7 +760,8 @@
 		"hasHostedEx": true
 	},
 	"2456611": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"2456691": {
 		"hasExTag": true
