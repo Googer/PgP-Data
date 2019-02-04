@@ -1264,6 +1264,9 @@
 	"1bf5b5fc6ac74489bf4904a642171259.16": {
 		"hasExTag": true
 	},
+	"241c364115624e77819067954be79c98.16": {
+		"additionalInformation": "Be mindful that this gym has limited accessibility."
+	},
 	"3647f779c20b4ae6acfe38f95f337c77.16": {
 		"hasExTag": true,
 		"hasHostedEx": true
@@ -1327,6 +1330,9 @@
 	},
 	"de0d9307def54a999a5d52e4b9c988f8.16": {
 		"additionalInformation": "The road is closed - the gym is inaccessible for raids."
+	},
+	"e0d9b14af18c45528951ccce263ea451.12": {
+		"nickname": "Allegheny Observatory (Landmark Sign)"
 	},
 	"e4fb121bb28444a380b5bc92a1f0a946.16": {
 		"hasExTag": true
