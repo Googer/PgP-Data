@@ -105,7 +105,8 @@
 		"hasExTag": true
 	},
 	"193447": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"198016": {
 		"nickname": "First Christian Church (McKeesport)"
@@ -437,7 +438,8 @@
 		"nickname": "The Church of Jesus Christ of Latter-Day Saints (Franklin Park)"
 	},
 	"710859": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"730965": {
 		"hasExTag": true,
@@ -522,7 +524,8 @@
 		"hasExTag": true
 	},
 	"891158": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"909032": {
 		"nickname": "Scott Township War Memorial (Scott Park Playground)",
@@ -758,7 +761,8 @@
 		"hasExTag": true
 	},
 	"2456535": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"2456544": {
 		"hasExTag": true
