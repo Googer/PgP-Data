@@ -102,6 +102,7 @@
 	},
 	"192395": {
 		"nickname": "Heidelberg Park (OG)",
+		"additionalInformation": "Duplicate Alert: If you meant the gym at the playground by the fire station, type `!gym Heidelberg Park Playground` to change it.",
 		"hasExTag": true,
 		"hasHostedEx": true
 	},
@@ -136,7 +137,8 @@
 		"nickname": "St. John&#039;s Lutheran Church (Cranberry)"
 	},
 	"239276": {
-		"nickname": "Mural Oakland (Mad Mex)"
+		"nickname": "Mural Oakland (Mad Mex)",
+		"additionalInformation": "Duplicate Alert: If you meant Oakland Mural (Sorrento's Pizza), type `!gym sorrentos` to change it."
 	},
 	"240824": {
 		"hasExTag": true
@@ -420,7 +422,8 @@
 		"additionalInformation": "Please avoid the Legion's property.  Park somewhere else and raid from the sidewalk across the street."
 	},
 	"677808": {
-		"nickname": "Oakland Mural (Sorrento's)"
+		"nickname": "Oakland Mural (Sorrento's)",
+		"additionalInformation": "Duplicate Alert: If you meant Mural Oakland (Mad Mex), type `!gym mad mex` to change it."
 	},
 	"678006": {
 		"hasExTag": true,
@@ -898,10 +901,11 @@
 	},
 	"7432479": {
 		"nickname": "Forbes Road (Hoss's)",
-		"additionalInformation": "Cell service tends to be very poor at this gym unless you are on AT&T's network."
+		"additionalInformation": "Cell service tends to be very poor at this gym unless you are on AT&T's network.\n\nDuplicate Alert: If you meant the Forbes Road near Madero Cantina, type `!gym madero` to change it."
 	},
 	"7434067": {
-		"nickname": "Forbes Road (Madero Cantina)"
+		"nickname": "Forbes Road (Madero Cantina)",
+		"additionalInformation": "Duplicate Alert: If you meant the Forbes Road near Hoss's, type `!gym Hoss's` to change it."
 	},
 	"7434068": {
 		"nickname": "Veterans Memorial (Murrysville)"
@@ -1167,11 +1171,13 @@
 	},
 	"49205837": {
 		"nickname": "Sprint Store (Penn Center East)",
+		"additionalInformation": "Duplicate Alert: If you meant the Sprint at Monroeville Mall, type `!gym mall Sprint` to change it.",
 		"hasExTag": true,
 		"hasHostedEx": true
 	},
 	"49205838": {
 		"nickname": "Sprint Store (Monroeville Mall)",
+		"additionalInformation": "Duplicate Alert: If you meant the Sprint at Penn Center East, type `!gym Sprint Penn Center` to change it.",
 		"hasExTag": true,
 		"hasHostedEx": true
 	},
@@ -1315,6 +1321,9 @@
 	"8ceb66f20e654d91a1b86c8dcb744883.16": {
 		"hasExTag": true
 	},
+	"9486f515d0d0411eb6e96c523b6d7b51.16": {
+		"additionalInformation": "Park hours are listed to be from Dawn til Dusk. Please be respectful of this as this gym is located in a neighborhood."
+	},
 	"98790fe73ff84628aee83fc635c9d748.16": {
 		"hasExTag": true
 	},
@@ -1332,7 +1341,8 @@
 		"hasHostedEx": true
 	},
 	"bd8121725ea345dd834b3cd6eb702e2d.16": {
-		"nickname": "Heidelberg Park (Playground)"
+		"nickname": "Heidelberg Park (Playground)",
+		"additionalInformation": "Duplicate Alert: If you meant the original gym at the park, type `!gym Heidelberg Park` to change it."
 	},
 	"c1b674a2d45d4c30864040c671bebd70.16": {
 		"additionalInformation": "You cannot drive directly to this gym - it is on a walking trail.",
