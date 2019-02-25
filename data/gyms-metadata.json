@@ -222,7 +222,7 @@
 	},
 	"348147": {
 		"nickname": "Les Getz Memorial Park (Les Getz Dr)",
-		"additionalInformation": "Duplicate Alert: If you meant the upper Les Getz gym, type `!gym les getz church st`"
+		"additionalInformation": "Duplicate Alert: If you meant the upper Les Getz gym, type `!gym les getz church st`.",
 		"hasExTag": true
 	},
 	"358377": {
@@ -699,7 +699,7 @@
 	},
 	"1204050": {
 		"nickname": "Les Getz Memorial Park (Church St)",
-		"additionalInformation": "Duplicate Alert: If you meant the lower Les Getz gym, type `!gym les getz park`"
+		"additionalInformation": "Duplicate Alert: If you meant the lower Les Getz gym, type `!gym les getz park`."
 	},
 	"1204633": {
 		"hasExTag": true,
