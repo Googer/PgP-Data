@@ -222,6 +222,7 @@
 	},
 	"348147": {
 		"nickname": "Les Getz Memorial Park (Les Getz Dr)",
+		"additionalInformation": "Duplicate Alert: If you meant the upper Les Getz gym, type `!gym les getz church st`"
 		"hasExTag": true
 	},
 	"358377": {
@@ -697,7 +698,8 @@
 		"hasExTag": true
 	},
 	"1204050": {
-		"nickname": "Les Getz Memorial Park (Church St)"
+		"nickname": "Les Getz Memorial Park (Church St)",
+		"additionalInformation": "Duplicate Alert: If you meant the lower Les Getz gym, type `!gym les getz park`"
 	},
 	"1204633": {
 		"hasExTag": true,
@@ -714,6 +716,12 @@
 	},
 	"2456330": {
 		"hasExTag": true
+	},
+	"2456347": {
+		"additionalInformation": "This is this sign along the roadway."
+	},
+	"2456348": {
+		"additionalInformation": "This is the church building at the top of the drive."
 	},
 	"2456356": {
 		"hasExTag": true,
@@ -883,6 +891,9 @@
 	"5389928": {
 		"hasExTag": true,
 		"hasHostedEx": true
+	},
+	"5390151": {
+		"additionalInformation": "Park hours are from Dawn to Dusk."
 	},
 	"5390182": {
 		"hasExTag": true
@@ -1322,7 +1333,7 @@
 		"hasExTag": true
 	},
 	"9486f515d0d0411eb6e96c523b6d7b51.16": {
-		"additionalInformation": "Park hours are listed to be from Dawn til Dusk. Please be respectful of this as this gym is located in a neighborhood."
+		"additionalInformation": "Park hours are listed to be from Dawn to Dusk. Please be respectful of this as this gym is located in a neighborhood."
 	},
 	"98790fe73ff84628aee83fc635c9d748.16": {
 		"hasExTag": true
