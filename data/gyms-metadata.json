@@ -231,6 +231,9 @@
 	"362963": {
 		"hasExTag": true
 	},
+	"363783": {
+		"additionalInformation": "If you meant the fountain at the Waterfront, type `!gym waterfront fountain`."
+	},
 	"364063": {
 		"nickname": "First United Presbyterian Church (Mannington)"
 	},
@@ -454,7 +457,8 @@
 		"additionalInformation": "This gym is on private property. Please access it from the road nearby."
 	},
 	"755634": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"767886": {
 		"hasExTag": true
@@ -627,6 +631,7 @@
 		"hasHostedEx": true
 	},
 	"1074432": {
+		"additionalTerms": "pvgp",
 		"hasExTag": true,
 		"hasHostedEx": true
 	},
