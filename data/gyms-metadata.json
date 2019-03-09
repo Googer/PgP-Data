@@ -513,9 +513,6 @@
 	"846620": {
 		"hasExTag": true
 	},
-	"859601": {
-		"nickname": "White Park (Easr Parkway)"
-	},
 	"859964": {
 		"hasExTag": true
 	},
@@ -524,6 +521,9 @@
 	},
 	"870716": {
 		"additionalInformation": "Please be cautious while parking in the area for this gym. There has been at least one resident that has been unhappy with the temporary PoGo parking."
+	},
+	"878697": {
+		"additionalInformation": "Atonement services: 9am Sun\n\nSt John’s services: 6pm Sat & 10am Sun"
 	},
 	"881434": {
 		"hasExTag": true,
@@ -926,9 +926,6 @@
 	"7434068": {
 		"nickname": "Veterans Memorial (Murrysville)"
 	},
-	"7675984": {
-		"nickname": "White Park (Hite St)"
-	},
 	"7676359": {
 		"nickname": "Calvary United Methodist Church (Morgantown)"
 	},
@@ -1324,6 +1321,9 @@
 	},
 	"6b12a26d22554c609c307e6dc740fb1f.16": {
 		"hasExTag": true
+	},
+	"6f98e71928034450b60a74e404eac4d3.16": {
+		"additionalInformation": "Park hours are listed as dawn to dusk. Please be respectful as this is a neighborhood park."
 	},
 	"82a95c45efad43e3807226f5af3c03a1.16": {
 		"hasExTag": true
