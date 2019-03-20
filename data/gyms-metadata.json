@@ -255,6 +255,7 @@
 		"hasExTag": true
 	},
 	"397094": {
+		"additionalInformation": "Duplicate Alert: If you meant Playground - Boyce Park by the soccer fields, type `!gym Playground Boyce Park` to change it.",
 		"hasExTag": true,
 		"hasHostedEx": true
 	},
@@ -514,7 +515,8 @@
 		"hasExTag": true
 	},
 	"859964": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"869936": {
 		"hasExTag": true
@@ -1276,6 +1278,9 @@
 	"49850446": {
 		"hasExTag": true
 	},
+	"01067cfdd831417c8431903be0df69bd.16": {
+		"additionalInformation": "Duplicate Alert: If you meant O'Block Playground Boyce Park on Monroeville Trestle Rd, type `!gym Oblock Playground` to change it."
+	},
 	"0b59a31674844c31a7344c50febebd98.16": {
 		"additionalInformation": "This gym is near a Girl Scout cabin where many Girl Scouts are dropped off for sleepovers. Please use good judgement and avoid it during drop off / pick up times and respect any requests to leave the property."
 	},
@@ -1283,7 +1288,8 @@
 		"hasExTag": true
 	},
 	"1047ca318fb14469ab46933e7df9c3c4.16": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"194f883f34544d9c9afe2fe964777aad.16": {
 		"hasExTag": true,
