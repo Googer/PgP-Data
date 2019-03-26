@@ -1173,6 +1173,7 @@
 	},
 	"49102839": {
 		"nickname": "Sprint Store (Market Square)",
+		"additionalInformation": "Duplicate Alert: If you meant the Sprint at Fifth and Smithfield, type `!gym Sprint smithfield` to change it.",
 		"hasExTag": true,
 		"hasHostedEx": true
 	},
@@ -1355,6 +1356,9 @@
 	"ae19ca580aff48a591a7c3219bcc6df1.16": {
 		"additionalInformation": "Please park in Green Tree Park by the Walking Track and walk over to the field to access this gym."
 	},
+	"b7476f21ac204203b7068da6255235a4.16": {
+		"hasExTag": true
+	},
 	"b5b9872c05b744ba95de9b05df69566f.16": {
 		"additionalInformation": "Please be courteous to shoppers and do not obstruct the walkways. Mall security has been known to have issues with that at this gym."
 	},
@@ -1365,6 +1369,9 @@
 	"bd8121725ea345dd834b3cd6eb702e2d.16": {
 		"nickname": "Heidelberg Park (Playground)",
 		"additionalInformation": "Duplicate Alert: If you meant the original gym at the park, type `!gym Heidelberg Park` to change it."
+	},
+	"bebeb561e9e2404bbae8f76179e56393.16": {
+		"hasExTag": true
 	},
 	"c1b674a2d45d4c30864040c671bebd70.16": {
 		"additionalInformation": "You cannot drive directly to this gym - it is on a walking trail.",
@@ -1388,6 +1395,9 @@
 		"nickname": "Allegheny Observatory (Landmark Sign)"
 	},
 	"e4fb121bb28444a380b5bc92a1f0a946.16": {
+		"hasExTag": true
+	},
+	"e6022ed59f6d486da0d4ccd56ad97059.16": {
 		"hasExTag": true
 	},
 	"e8d7813999ea49e6a8b5e0a97b10b97a.16": {
