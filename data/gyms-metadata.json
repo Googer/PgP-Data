@@ -1282,6 +1282,10 @@
 	"01067cfdd831417c8431903be0df69bd.16": {
 		"additionalInformation": "Duplicate Alert: If you meant O'Block Playground Boyce Park on Monroeville Trestle Rd, type `!gym Oblock Playground` to change it."
 	},
+	"05caa91fcf654db08343477462f1fe80.16": {
+		"hasExTag": true,
+		"additionalInformation": "Please do not park in the roundabout."
+	},
 	"0b59a31674844c31a7344c50febebd98.16": {
 		"additionalInformation": "This gym is near a Girl Scout cabin where many Girl Scouts are dropped off for sleepovers. Please use good judgement and avoid it during drop off / pick up times and respect any requests to leave the property."
 	},
@@ -1413,9 +1417,6 @@
 		"hasExTag": true
 	},
 	"f497c6ce865d48ea848dc5c7fc1ea7e2.16": {
-		"hasExTag": true
-	},
-	"f6e3bc240208491883d8b954c2f1a90e.16": {
 		"hasExTag": true
 	},
 	"fa2ee47d8848435d856b3b9391dd2184.16": {
