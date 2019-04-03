@@ -638,7 +638,8 @@
 		"hasHostedEx": true
 	},
 	"1082035": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"1083060": {
 		"additionalInformation": "This gym is on private property and those without a legitimate reason to be on the property will likely be asked to leave by security."
@@ -683,7 +684,8 @@
 		"hasExTag": true
 	},
 	"1169030": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"1169680": {
 		"hasExTag": true
@@ -795,7 +797,8 @@
 		"hasHostedEx": true
 	},
 	"2456691": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"2456723": {
 		"hasExTag": true
@@ -1387,6 +1390,9 @@
 	},
 	"c4060eb27aba43e4adc8ed3174dbd7bf.16": {
 		"additionalInformation": "Directions: Park in the Duff Park parking lot off of School Road. This gym is about 1/4 mile walk down the bike trail.",
+		"hasExTag": true
+	},
+	"c7ab4081ea7a4918a6ceda28c0ad5189.16": {
 		"hasExTag": true
 	},
 	"d23a46f42440402bbbcb3e828729a6b3.16": {
