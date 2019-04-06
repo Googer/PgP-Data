@@ -1170,13 +1170,14 @@
 	},
 	"49102837": {
 		"nickname": "Sprint Store (Fifth / Smithfield)",
+		"additionalInformation": "Duplicate Alert: If you meant the Sprint in Market Square, type `!gym sprint market` to change it.",
 		"additionalTerms": "kaufmanns clock",
 		"hasExTag": true,
 		"hasHostedEx": true
 	},
 	"49102839": {
 		"nickname": "Sprint Store (Market Square)",
-		"additionalInformation": "Duplicate Alert: If you meant the Sprint at Fifth and Smithfield, type `!gym Sprint smithfield` to change it.",
+		"additionalInformation": "Duplicate Alert: If you meant the Sprint at Fifth and Smithfield, type `!gym sprint smithfield` to change it.",
 		"hasExTag": true,
 		"hasHostedEx": true
 	},
@@ -1284,6 +1285,9 @@
 	},
 	"01067cfdd831417c8431903be0df69bd.16": {
 		"additionalInformation": "Duplicate Alert: If you meant O'Block Playground Boyce Park on Monroeville Trestle Rd, type `!gym Oblock Playground` to change it."
+	},
+	"033659d1f8634ae88d27664becf0d9ee.16": {
+		"hasExTag": true
 	},
 	"05caa91fcf654db08343477462f1fe80.16": {
 		"hasExTag": true,
