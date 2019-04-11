@@ -717,9 +717,6 @@
 	"1204855": {
 		"nickname": "Bridgeville Boro Fire Department"
 	},
-	"1205817": {
-		"hasExTag": true
-	},
 	"1207208": {
 		"nickname": "Pittsburgh Post Office (Ross)"
 	},
@@ -1299,6 +1296,9 @@
 	"0cec1e43a2c14dafa18a19ee5921495b.16": {
 		"hasExTag": true
 	},
+	"0dc5ef774c3a48bfa06553e4527aae9b.16": {
+		"hasExTag": true
+	},
 	"1047ca318fb14469ab46933e7df9c3c4.16": {
 		"hasExTag": true,
 		"hasHostedEx": true
@@ -1314,7 +1314,8 @@
 		"additionalInformation": "Be mindful that this gym has limited accessibility."
 	},
 	"3430e42320814edf9d4fd62c54423a86.12": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"35590ca57ed74898b2065f1d907f4bd1.16": {
 		"nickname": "Allegheny Observatory (Building)"
@@ -1353,7 +1354,8 @@
 		"additionalInformation": "This location is a T stop and the only access points are from a train or down a steep set of stairs.  Please be careful getting to this location."
 	},
 	"8c709cf24010444d93d4fab2e7bbc3da.16": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"8ceb66f20e654d91a1b86c8dcb744883.16": {
 		"hasExTag": true
