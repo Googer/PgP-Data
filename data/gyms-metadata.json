@@ -1405,14 +1405,12 @@
 	"d3b6679066b6408ca3f8a987e5dc61f9.16": {
 		"additionalInformation": "This gym is located in a cemetery. Please be respectful!"
 	},
-	"de0d9307def54a999a5d52e4b9c988f8.16": {
-		"additionalInformation": "The road is closed - the gym is inaccessible for raids."
-	},
 	"e0d9b14af18c45528951ccce263ea451.12": {
 		"nickname": "Allegheny Observatory (Landmark Sign)"
 	},
 	"e4fb121bb28444a380b5bc92a1f0a946.16": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"e6022ed59f6d486da0d4ccd56ad97059.16": {
 		"hasExTag": true
