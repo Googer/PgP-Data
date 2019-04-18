@@ -1385,7 +1385,8 @@
 		"additionalInformation": "Duplicate Alert: If you meant the original gym at the park, type `!gym Heidelberg Park` to change it."
 	},
 	"bebeb561e9e2404bbae8f76179e56393.16": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"c1b674a2d45d4c30864040c671bebd70.16": {
 		"additionalInformation": "You cannot drive directly to this gym - it is on a walking trail.",
@@ -1397,7 +1398,8 @@
 		"hasExTag": true
 	},
 	"c7ab4081ea7a4918a6ceda28c0ad5189.16": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"d23a46f42440402bbbcb3e828729a6b3.16": {
 		"hasExTag": true
