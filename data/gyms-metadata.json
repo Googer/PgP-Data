@@ -285,7 +285,8 @@
 		"hasExTag": true
 	},
 	"437283": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"444359": {
 		"hasExTag": true,
@@ -376,7 +377,8 @@
 		"additionalInformation": "Park across the street at the Eat’n’Park."
 	},
 	"601623": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"601775": {
 		"hasExTag": true,
@@ -1089,7 +1091,8 @@
 		"hasHostedEx": true
 	},
 	"26874192": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"26874198": {
 		"hasExTag": true
@@ -1395,6 +1398,9 @@
 	},
 	"c4060eb27aba43e4adc8ed3174dbd7bf.16": {
 		"additionalInformation": "Directions: Park in the Duff Park parking lot off of School Road. This gym is about 1/4 mile walk down the bike trail.",
+		"hasExTag": true
+	},
+	"c474fd19a75147e096209201b872b32c.16": {
 		"hasExTag": true
 	},
 	"c7ab4081ea7a4918a6ceda28c0ad5189.16": {
