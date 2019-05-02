@@ -1311,6 +1311,9 @@
 	"241c364115624e77819067954be79c98.16": {
 		"additionalInformation": "Be mindful that this gym has limited accessibility."
 	},
+	"32b06ff70fea44f6bc03d74c4f465d5a.16": {
+		"hasExTag": true
+	},
 	"3430e42320814edf9d4fd62c54423a86.12": {
 		"hasExTag": true,
 		"hasHostedEx": true
@@ -1327,6 +1330,9 @@
 		"hasHostedEx": true
 	},
 	"43cf1431bc564f93957de89960e8afc1.12": {
+		"hasExTag": true
+	},
+	"56149d1e6b6a49e8966acb7c47da181a.16": {
 		"hasExTag": true
 	},
 	"5e839cd34c364ee0aa19869f54212218.16": {
@@ -1427,6 +1433,9 @@
 	},
 	"d3b6679066b6408ca3f8a987e5dc61f9.16": {
 		"additionalInformation": "This gym is located in a cemetery. Please be respectful!"
+	},
+	"db5ac3386b0245c29470548c4792093e.16": {
+		"hasExTag": true
 	},
 	"e0d9b14af18c45528951ccce263ea451.12": {
 		"nickname": "Allegheny Observatory (Landmark Sign)"
