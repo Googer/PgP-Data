@@ -335,7 +335,8 @@
 		"hasHostedEx": true
 	},
 	"544289": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"544314": {
 		"nickname": "Memorial Fountain and Small Pond (Slater Funeral Home)",
@@ -665,7 +666,8 @@
 		"additionalTerms": "jcc"
 	},
 	"1130272": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"1141329": {
 		"hasExTag": true
@@ -1346,7 +1348,8 @@
 		"hasExTag": true
 	},
 	"66fd564bcf54490f91c118d5f9bf881e.16": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"6b12a26d22554c609c307e6dc740fb1f.16": {
 		"hasExTag": true
@@ -1398,7 +1401,8 @@
 		"additionalInformation": "Please park in Green Tree Park by the Walking Track and walk over to the field to access this gym."
 	},
 	"b7476f21ac204203b7068da6255235a4.16": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"b5b9872c05b744ba95de9b05df69566f.16": {
 		"additionalInformation": "Please be courteous to shoppers and do not obstruct the walkways. Mall security has been known to have issues with that at this gym."
@@ -1444,6 +1448,10 @@
 		"nickname": "Allegheny Observatory (Landmark Sign)"
 	},
 	"e4fb121bb28444a380b5bc92a1f0a946.16": {
+		"hasExTag": true,
+		"hasHostedEx": true
+	},
+	"ebc2ece2f5264f8886c84980ccf753c6.16": {
 		"hasExTag": true,
 		"hasHostedEx": true
 	},
