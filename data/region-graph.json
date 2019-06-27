@@ -130,7 +130,7 @@
     "area-51",
     "south-park-southwest"
   ],
-  "gibsonia-wexford-northpark": [
+  "northpark-wexford-gibsonia": [
     "millvale-and-mrc",
     "upper-allegheny",
     "oakmont-springdale",
@@ -143,27 +143,27 @@
     "north-side",
     "bloomfield-strip-lawrenceville",
     "east-shadyland",
-    "gibsonia-wexford-northpark",
+    "northpark-wexford-gibsonia",
     "foxchapel-and-aspinwall",
     "bellevue-westview-ross"
   ],
   "upper-allegheny": [
     "monroeville-plum-murrysville",
     "irwin-greensburg-mountpleasant",
-    "gibsonia-wexford-northpark",
+    "northpark-wexford-gibsonia",
     "oakmont-springdale"
   ],
   "oakmont-springdale": [
     "the-old-east",
     "monroeville-plum-murrysville",
-    "gibsonia-wexford-northpark",
+    "northpark-wexford-gibsonia",
     "upper-allegheny",
     "foxchapel-and-aspinwall"
   ],
   "foxchapel-and-aspinwall": [
     "east-shadyland",
     "the-old-east",
-    "gibsonia-wexford-northpark",
+    "northpark-wexford-gibsonia",
     "millvale-and-mrc",
     "oakmont-springdale"
   ],
@@ -171,7 +171,7 @@
     "north-side",
     "city-south",
     "great-scott",
-    "gibsonia-wexford-northpark",
+    "northpark-wexford-gibsonia",
     "canonsburg",
     "bellevue-westview-ross"
   ],
@@ -187,11 +187,11 @@
     "washington"
   ],
   "cranberry-and-friends": [
-    "gibsonia-wexford-northpark"
+    "northpark-wexford-gibsonia"
   ],
   "bellevue-westview-ross": [
     "north-side",
-    "gibsonia-wexford-northpark",
+    "northpark-wexford-gibsonia",
     "millvale-and-mrc",
     "wild-west"
   ]
