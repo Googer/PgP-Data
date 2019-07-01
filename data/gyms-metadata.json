@@ -188,7 +188,8 @@
 		"hasExTag": true
 	},
 	"304175": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"313669": {
 		"additionalInformation": "Park across the street between the diner and gas station."
@@ -328,7 +329,8 @@
 		"hasExTag": true
 	},
 	"524148": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"526650": {
 		"hasExTag": true,
@@ -518,6 +520,7 @@
 		"hasExTag": true
 	},
 	"859964": {
+		"additionalInformation": "Please avoid blocking the entrance when raiding here.",
 		"hasExTag": true,
 		"hasHostedEx": true
 	},
@@ -1361,7 +1364,8 @@
 		"hasExTag": true
 	},
 	"7110a19c3fc54abc8addb7d500bb860a.16": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"734d0f66fef1473a8cfae929b11e9421.16": {
 		"additionalInformation": "This gym is located at Carriage Park Apartments. Be respectful while at this gym."
