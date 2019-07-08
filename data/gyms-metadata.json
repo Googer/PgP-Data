@@ -992,14 +992,16 @@
 		"hasHostedEx": true
 	},
 	"10872881": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"10872886": {
 		"additionalInformation": "This gym has very poor phone service. AT&T is the only one that consistently works here.",
 		"hasExTag": true
 	},
 	"10872892": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"10872898": {
 		"hasExTag": true
