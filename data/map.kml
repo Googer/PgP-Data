@@ -37,40 +37,6 @@
         <styleUrl>#icon-1713-817717-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="icon-1720-097138-normal">
-      <IconStyle>
-        <color>ff387109</color>
-        <scale>1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-1720-097138-highlight">
-      <IconStyle>
-        <color>ff387109</color>
-        <scale>1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-1720-097138">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1720-097138-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1720-097138-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Style id="icon-1739-000000-normal">
       <IconStyle>
         <color>ff000000</color>
@@ -103,6 +69,40 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#icon-1739-000000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1886-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1886-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1886-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1886-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1886-097138-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="poly-01579B-5000-77-nodesc-normal">
@@ -1735,7 +1735,7 @@
                 -80.0460966,40.4347393,0
                 -80.049273,40.4460405,0
                 -80.0812624,40.4419862,0
-                -80.100374,40.425846,0
+                -80.1016614,40.4298315,0
                 -80.103722,40.424474,0
                 -80.1187956,40.3997143,0
                 -80.117626,40.37022,0
@@ -2294,7 +2294,7 @@
                 -80.1107275,40.4121966,0
                 -80.1036038,40.4243512,0
                 -80.1036898,40.4244822,0
-                -80.1003418,40.4258542,0
+                -80.1016614,40.4298315,0
                 -80.0812624,40.4419862,0
                 -80.049273,40.4460405,0
               </coordinates>
@@ -2458,11 +2458,11 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>EX Tagged Gyms</name>
+      <name><![CDATA[Gyms with EX Raid tag that haven't hosted yet]]></name>
       <Placemark>
         <name>Blueberry Hill Park Activity Center</name>
         <description><![CDATA[Longitude: -80.099874<br>Latitude: 40.580574]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.099874</value>
@@ -2480,7 +2480,7 @@
       <Placemark>
         <name>McKee Memorial Bench</name>
         <description><![CDATA[Longitude: -80.128023<br>Latitude: 40.706224]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.128023</value>
@@ -2498,7 +2498,7 @@
       <Placemark>
         <name>Leechburg Area Little League Ballfield</name>
         <description><![CDATA[Longitude: -79.613492<br>Latitude: 40.646197]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.613492</value>
@@ -2516,7 +2516,7 @@
       <Placemark>
         <name>McKinney Soccer Complex</name>
         <description><![CDATA[Longitude: -80.047869<br>Latitude: 40.619538]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.047869</value>
@@ -2534,7 +2534,7 @@
       <Placemark>
         <name>Oracle at Frick Park Braddock</name>
         <description><![CDATA[Longitude: -79.897912<br>Latitude: 40.439101]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.897912</value>
@@ -2552,7 +2552,7 @@
       <Placemark>
         <name>Settlers Cabin Park</name>
         <description><![CDATA[Longitude: -80.156452<br>Latitude: 40.434257]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.156452</value>
@@ -2570,7 +2570,7 @@
       <Placemark>
         <name>Sycamore Grove</name>
         <description><![CDATA[Longitude: -79.912728<br>Latitude: 40.481518]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.912728</value>
@@ -2588,7 +2588,7 @@
       <Placemark>
         <name>Panorama Park</name>
         <description><![CDATA[Longitude: -79.92302<br>Latitude: 40.392564]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.92302</value>
@@ -2606,7 +2606,7 @@
       <Placemark>
         <name>Sam Bucci Memorial Field</name>
         <description><![CDATA[Longitude: -80.128244<br>Latitude: 40.793373]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.128244</value>
@@ -2624,7 +2624,7 @@
       <Placemark>
         <name>World War Memorial</name>
         <description><![CDATA[Longitude: -80.037634<br>Latitude: 40.437047]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.037634</value>
@@ -2642,7 +2642,7 @@
       <Placemark>
         <name>Bird Park</name>
         <description><![CDATA[Longitude: -80.04952<br>Latitude: 40.368144]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.04952</value>
@@ -2660,7 +2660,7 @@
       <Placemark>
         <name>Tamarack Trail Marker 6 Tree Death</name>
         <description><![CDATA[Longitude: -79.476573<br>Latitude: 40.316857]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.476573</value>
@@ -2678,7 +2678,7 @@
       <Placemark>
         <name>World Trail Vault Bar</name>
         <description><![CDATA[Longitude: -79.477491<br>Latitude: 40.316756]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.477491</value>
@@ -2696,7 +2696,7 @@
       <Placemark>
         <name>Play Ground</name>
         <description><![CDATA[Longitude: -79.475472<br>Latitude: 40.318655]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.475472</value>
@@ -2714,7 +2714,7 @@
       <Placemark>
         <name>Twin Lakes Gazebo on Lake</name>
         <description><![CDATA[Longitude: -79.473945<br>Latitude: 40.321743]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.473945</value>
@@ -2732,7 +2732,7 @@
       <Placemark>
         <name>World Trail Balance Walk</name>
         <description><![CDATA[Longitude: -79.476551<br>Latitude: 40.320935]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.476551</value>
@@ -2750,7 +2750,7 @@
       <Placemark>
         <name>James R. Peach Bowl</name>
         <description><![CDATA[Longitude: -79.486674<br>Latitude: 40.318999]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.486674</value>
@@ -2768,7 +2768,7 @@
       <Placemark>
         <name>Franklin Dog Park</name>
         <description><![CDATA[Longitude: -79.486636<br>Latitude: 40.320735]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.486636</value>
@@ -2784,27 +2784,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name><![CDATA[Martin's Cabin]]></name>
-        <description><![CDATA[Longitude: -79.945763<br>Latitude: 40.432907]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
-        <ExtendedData>
-          <Data name="Longitude">
-            <value>-79.945763</value>
-          </Data>
-          <Data name="Latitude">
-            <value>40.432907</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            -79.945763,40.432907,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Avonworth Community Park</name>
         <description><![CDATA[Longitude: -80.084325<br>Latitude: 40.522079]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.084325</value>
@@ -2822,7 +2804,7 @@
       <Placemark>
         <name>Tyler Park</name>
         <description><![CDATA[Longitude: -80.000188<br>Latitude: 40.53167]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.000188</value>
@@ -2840,7 +2822,7 @@
       <Placemark>
         <name>Mt Lebanon Park Pavilion 2</name>
         <description><![CDATA[Longitude: -80.054645<br>Latitude: 40.373277]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.054645</value>
@@ -2858,7 +2840,7 @@
       <Placemark>
         <name>Cohen Memorial</name>
         <description><![CDATA[Longitude: -79.913337<br>Latitude: 40.430398]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.913337</value>
@@ -2876,7 +2858,7 @@
       <Placemark>
         <name>Evergreen Community Park</name>
         <description><![CDATA[Longitude: -80.023399<br>Latitude: 40.539972]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.023399</value>
@@ -2894,7 +2876,7 @@
       <Placemark>
         <name><![CDATA[Allegheny County Soldier's Monument]]></name>
         <description><![CDATA[Longitude: -80.012591<br>Latitude: 40.453021]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.012591</value>
@@ -2912,7 +2894,7 @@
       <Placemark>
         <name>Clever Park Playground</name>
         <description><![CDATA[Longitude: -80.133586<br>Latitude: 40.466363]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.133586</value>
@@ -2930,7 +2912,7 @@
       <Placemark>
         <name>Sumac Pavilion</name>
         <description><![CDATA[Longitude: -79.799876<br>Latitude: 40.338621]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.799876</value>
@@ -2948,7 +2930,7 @@
       <Placemark>
         <name>Stand-On Sundial Sewickley</name>
         <description><![CDATA[Longitude: -80.188894<br>Latitude: 40.537339]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.188894</value>
@@ -2966,7 +2948,7 @@
       <Placemark>
         <name>Gazebo at Green Valley Park</name>
         <description><![CDATA[Longitude: -80.197589<br>Latitude: 40.741966]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.197589</value>
@@ -2984,7 +2966,7 @@
       <Placemark>
         <name>Memorial Bench</name>
         <description><![CDATA[Longitude: -80.197515<br>Latitude: 40.741696]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.197515</value>
@@ -3002,7 +2984,7 @@
       <Placemark>
         <name>German Murray Field</name>
         <description><![CDATA[Longitude: -80.130916<br>Latitude: 40.792336]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.130916</value>
@@ -3020,7 +3002,7 @@
       <Placemark>
         <name>Metal Art Statue</name>
         <description><![CDATA[Longitude: -79.925502<br>Latitude: 40.566447]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.925502</value>
@@ -3038,7 +3020,7 @@
       <Placemark>
         <name>Heartwood Acres Amphitheatre</name>
         <description><![CDATA[Longitude: -79.923596<br>Latitude: 40.567707]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.923596</value>
@@ -3056,7 +3038,7 @@
       <Placemark>
         <name>Allegheny County Gardens</name>
         <description><![CDATA[Longitude: -80.160243<br>Latitude: 40.430271]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.160243</value>
@@ -3074,7 +3056,7 @@
       <Placemark>
         <name>Troy Hill Citizens Park</name>
         <description><![CDATA[Longitude: -79.983752<br>Latitude: 40.463267]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.983752</value>
@@ -3092,7 +3074,7 @@
       <Placemark>
         <name><![CDATA[Blue & Silver Metal Sculpture]]></name>
         <description><![CDATA[Longitude: -79.927635<br>Latitude: 40.569213]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.927635</value>
@@ -3110,7 +3092,7 @@
       <Placemark>
         <name>Hartwood Acres Mansion</name>
         <description><![CDATA[Longitude: -79.909147<br>Latitude: 40.570295]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.909147</value>
@@ -3128,7 +3110,7 @@
       <Placemark>
         <name>Fish Hook Sculpture</name>
         <description><![CDATA[Longitude: -79.908432<br>Latitude: 40.569691]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.908432</value>
@@ -3146,7 +3128,7 @@
       <Placemark>
         <name>Pike Picnic Pavilion</name>
         <description><![CDATA[Longitude: -79.817191<br>Latitude: 40.627895]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.817191</value>
@@ -3164,7 +3146,7 @@
       <Placemark>
         <name>Knob Hill Community Park</name>
         <description><![CDATA[Longitude: -80.118122<br>Latitude: 40.660801]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.118122</value>
@@ -3182,7 +3164,7 @@
       <Placemark>
         <name>Jones/Neely Log House</name>
         <description><![CDATA[Longitude: -80.102726<br>Latitude: 40.582695]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.102726</value>
@@ -3200,7 +3182,7 @@
       <Placemark>
         <name>Deer Lakes Park Fishing Lake</name>
         <description><![CDATA[Longitude: -79.8265<br>Latitude: 40.621796]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.8265</value>
@@ -3218,7 +3200,7 @@
       <Placemark>
         <name>Deer Lakes Park Frisbee Golf Course</name>
         <description><![CDATA[Longitude: -79.8202<br>Latitude: 40.621288]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.8202</value>
@@ -3236,7 +3218,7 @@
       <Placemark>
         <name>North Park Community Water Park</name>
         <description><![CDATA[Longitude: -80.085563<br>Latitude: 40.720912]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.085563</value>
@@ -3254,7 +3236,7 @@
       <Placemark>
         <name>Maropis Field</name>
         <description><![CDATA[Longitude: -80.235369<br>Latitude: 40.417489]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.235369</value>
@@ -3272,7 +3254,7 @@
       <Placemark>
         <name>Legion Keener Park Gazebo</name>
         <description><![CDATA[Longitude: -79.384391<br>Latitude: 40.313289]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.384391</value>
@@ -3290,7 +3272,7 @@
       <Placemark>
         <name>John Herb Field Memorial</name>
         <description><![CDATA[Longitude: -80.007577<br>Latitude: 40.516511]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.007577</value>
@@ -3308,7 +3290,7 @@
       <Placemark>
         <name><![CDATA[Len C. Anderson & William E. Kerr Memorial]]></name>
         <description><![CDATA[Longitude: -79.845856<br>Latitude: 40.524007]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.845856</value>
@@ -3326,7 +3308,7 @@
       <Placemark>
         <name>White Oak Park</name>
         <description><![CDATA[Longitude: -79.790739<br>Latitude: 40.337937]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.790739</value>
@@ -3344,7 +3326,7 @@
       <Placemark>
         <name>Beechwood Farms Nature Center</name>
         <description><![CDATA[Longitude: -79.905628<br>Latitude: 40.542752]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.905628</value>
@@ -3360,27 +3342,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Eric J. Revo Jr. Baseball Field</name>
-        <description><![CDATA[Longitude: -79.955835<br>Latitude: 40.382604]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
-        <ExtendedData>
-          <Data name="Longitude">
-            <value>-79.955835</value>
-          </Data>
-          <Data name="Latitude">
-            <value>40.382604</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            -79.955835,40.382604,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Lion Fountain</name>
         <description><![CDATA[Longitude: -79.687509<br>Latitude: 40.579655]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.687509</value>
@@ -3398,7 +3362,7 @@
       <Placemark>
         <name>Harmar Soccer Field</name>
         <description><![CDATA[Longitude: -79.819865<br>Latitude: 40.541672]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.819865</value>
@@ -3416,7 +3380,7 @@
       <Placemark>
         <name>Tallon Memorial Field</name>
         <description><![CDATA[Longitude: -80.130389<br>Latitude: 40.447745]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.130389</value>
@@ -3434,7 +3398,7 @@
       <Placemark>
         <name>Octopus Mural</name>
         <description><![CDATA[Longitude: -79.917955<br>Latitude: 40.483282]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.917955</value>
@@ -3452,7 +3416,7 @@
       <Placemark>
         <name>Frick Park Biddle Trail Entrance</name>
         <description><![CDATA[Longitude: -79.897071<br>Latitude: 40.437011]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.897071</value>
@@ -3470,7 +3434,7 @@
       <Placemark>
         <name>Patriotic Bench</name>
         <description><![CDATA[Longitude: -79.936527<br>Latitude: 40.433001]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.936527</value>
@@ -3488,7 +3452,7 @@
       <Placemark>
         <name>Les Getz Memorial Park</name>
         <description><![CDATA[Longitude: -79.894098<br>Latitude: 40.419602]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.894098</value>
@@ -3506,7 +3470,7 @@
       <Placemark>
         <name>Site of the Former Sumney School</name>
         <description><![CDATA[Longitude: -80.052674<br>Latitude: 40.192993]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.052674</value>
@@ -3524,7 +3488,7 @@
       <Placemark>
         <name>Freedom Lies Within</name>
         <description><![CDATA[Longitude: -79.842261<br>Latitude: 40.111326]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.842261</value>
@@ -3542,7 +3506,7 @@
       <Placemark>
         <name>Mingo Park Information Kiosk East</name>
         <description><![CDATA[Longitude: -80.017406<br>Latitude: 40.201585]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.017406</value>
@@ -3560,7 +3524,7 @@
       <Placemark>
         <name>Old Man of the Woods</name>
         <description><![CDATA[Longitude: -80.020302<br>Latitude: 40.200182]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.020302</value>
@@ -3578,7 +3542,7 @@
       <Placemark>
         <name>Kelsey Johnson 1990</name>
         <description><![CDATA[Longitude: -80.029596<br>Latitude: 40.537026]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.029596</value>
@@ -3596,7 +3560,7 @@
       <Placemark>
         <name>David Lex Memorial</name>
         <description><![CDATA[Longitude: -80.019541<br>Latitude: 40.479461]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.019541</value>
@@ -3614,7 +3578,7 @@
       <Placemark>
         <name><![CDATA[The Rivers' Edge]]></name>
         <description><![CDATA[Longitude: -79.452943<br>Latitude: 40.484739]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.452943</value>
@@ -3632,7 +3596,7 @@
       <Placemark>
         <name>Merchant Marines U.S. Navy WW2 Memorial</name>
         <description><![CDATA[Longitude: -80.189871<br>Latitude: 40.538138]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.189871</value>
@@ -3650,7 +3614,7 @@
       <Placemark>
         <name>Mellon Park - Fountain</name>
         <description><![CDATA[Longitude: -79.918923<br>Latitude: 40.451989]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.918923</value>
@@ -3668,7 +3632,7 @@
       <Placemark>
         <name>Bon Air Armed Forces Memorial</name>
         <description><![CDATA[Longitude: -79.999623<br>Latitude: 40.407578]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.999623</value>
@@ -3686,7 +3650,7 @@
       <Placemark>
         <name><![CDATA[FR. Bill's Trail]]></name>
         <description><![CDATA[Longitude: -80.161452<br>Latitude: 40.422498]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.161452</value>
@@ -3704,7 +3668,7 @@
       <Placemark>
         <name>Tepee Loop Trail Marker</name>
         <description><![CDATA[Longitude: -80.156615<br>Latitude: 40.422352]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.156615</value>
@@ -3722,7 +3686,7 @@
       <Placemark>
         <name>McDonald Oil Field</name>
         <description><![CDATA[Longitude: -80.241072<br>Latitude: 40.366464]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.241072</value>
@@ -3740,7 +3704,7 @@
       <Placemark>
         <name>City Growers - Bandi</name>
         <description><![CDATA[Longitude: -79.975075<br>Latitude: 40.422525]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.975075</value>
@@ -3758,7 +3722,7 @@
       <Placemark>
         <name>Foamers Point</name>
         <description><![CDATA[Longitude: -79.903153<br>Latitude: 40.453958]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.903153</value>
@@ -3776,7 +3740,7 @@
       <Placemark>
         <name>Freeport Community Park Tank</name>
         <description><![CDATA[Longitude: -79.680971<br>Latitude: 40.680399]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.680971</value>
@@ -3794,7 +3758,7 @@
       <Placemark>
         <name>Chalfant Park</name>
         <description><![CDATA[Longitude: -79.838261<br>Latitude: 40.41195]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.838261</value>
@@ -3812,7 +3776,7 @@
       <Placemark>
         <name>Slippery Elm</name>
         <description><![CDATA[Longitude: -79.683573<br>Latitude: 40.424253]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.683573</value>
@@ -3830,7 +3794,7 @@
       <Placemark>
         <name>Trillium Trail</name>
         <description><![CDATA[Longitude: -79.669877<br>Latitude: 40.422506]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.669877</value>
@@ -3848,7 +3812,7 @@
       <Placemark>
         <name>Bigtooth Aspen</name>
         <description><![CDATA[Longitude: -79.686197<br>Latitude: 40.423202]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.686197</value>
@@ -3866,7 +3830,7 @@
       <Placemark>
         <name>Walker-Ewing-Glass Log House</name>
         <description><![CDATA[Longitude: -80.169264<br>Latitude: 40.417974]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.169264</value>
@@ -3884,7 +3848,7 @@
       <Placemark>
         <name>Dogwood Trailhead Marker</name>
         <description><![CDATA[Longitude: -80.170959<br>Latitude: 40.417345]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.170959</value>
@@ -3902,7 +3866,7 @@
       <Placemark>
         <name>Meadow Maze</name>
         <description><![CDATA[Longitude: -80.172618<br>Latitude: 40.419416]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.172618</value>
@@ -3920,7 +3884,7 @@
       <Placemark>
         <name>Seven Springs Welcome</name>
         <description><![CDATA[Longitude: -79.299038<br>Latitude: 40.025928]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.299038</value>
@@ -3938,7 +3902,7 @@
       <Placemark>
         <name>Geological History of Seven Springs</name>
         <description><![CDATA[Longitude: -79.292255<br>Latitude: 40.021549]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.292255</value>
@@ -3956,7 +3920,7 @@
       <Placemark>
         <name>Relaxing Fountain</name>
         <description><![CDATA[Longitude: -79.296397<br>Latitude: 40.02292]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.296397</value>
@@ -3974,7 +3938,7 @@
       <Placemark>
         <name>Carp 1</name>
         <description><![CDATA[Longitude: -79.823631<br>Latitude: 40.625882]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.823631</value>
@@ -3992,7 +3956,7 @@
       <Placemark>
         <name>Mt. Lebanon Veterans Memorial</name>
         <description><![CDATA[Longitude: -80.055628<br>Latitude: 40.374766]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.055628</value>
@@ -4010,7 +3974,7 @@
       <Placemark>
         <name>New Dimension Field</name>
         <description><![CDATA[Longitude: -79.736016<br>Latitude: 40.476062]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.736016</value>
@@ -4028,7 +3992,7 @@
       <Placemark>
         <name>Frick Park, City of Pittsburgh Plaque</name>
         <description><![CDATA[Longitude: -79.902405<br>Latitude: 40.434221]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.902405</value>
@@ -4046,7 +4010,7 @@
       <Placemark>
         <name>Forest Hills R.E. Wise Grove Pavilion</name>
         <description><![CDATA[Longitude: -79.857474<br>Latitude: 40.424171]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.857474</value>
@@ -4064,7 +4028,7 @@
       <Placemark>
         <name>Chartiers Park Pavilion 1</name>
         <description><![CDATA[Longitude: -80.107912<br>Latitude: 40.348692]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.107912</value>
@@ -4082,7 +4046,7 @@
       <Placemark>
         <name>Sea Lion Viewing Window</name>
         <description><![CDATA[Longitude: -79.919252<br>Latitude: 40.482451]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.919252</value>
@@ -4098,27 +4062,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Catahecassa Blackhoof War Chief of the Shawnees</name>
-        <description><![CDATA[Longitude: -79.935613<br>Latitude: 40.435491]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
-        <ExtendedData>
-          <Data name="Longitude">
-            <value>-79.935613</value>
-          </Data>
-          <Data name="Latitude">
-            <value>40.435491</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            -79.935613,40.435491,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Veterans Memorial</name>
         <description><![CDATA[Longitude: -79.890334<br>Latitude: 40.302386]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.890334</value>
@@ -4136,7 +4082,7 @@
       <Placemark>
         <name>Clairton Stadium</name>
         <description><![CDATA[Longitude: -79.884499<br>Latitude: 40.288388]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.884499</value>
@@ -4152,27 +4098,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>African Lion Exhibit Sign</name>
-        <description><![CDATA[Longitude: -79.919311<br>Latitude: 40.484044]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
-        <ExtendedData>
-          <Data name="Longitude">
-            <value>-79.919311</value>
-          </Data>
-          <Data name="Latitude">
-            <value>40.484044</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            -79.919311,40.484044,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Officer Stephen J Mayhle Memorial Field</name>
         <description><![CDATA[Longitude: -80.00737<br>Latitude: 40.390325]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.00737</value>
@@ -4190,7 +4118,7 @@
       <Placemark>
         <name>Cranberry Township Fitness Zone At The Foot Ball Fields</name>
         <description><![CDATA[Longitude: -80.135398<br>Latitude: 40.713853]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.135398</value>
@@ -4208,7 +4136,7 @@
       <Placemark>
         <name>Pioneer Short-Wave Station</name>
         <description><![CDATA[Longitude: -79.841475<br>Latitude: 40.418261]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.841475</value>
@@ -4226,7 +4154,7 @@
       <Placemark>
         <name>Brighton Heights</name>
         <description><![CDATA[Longitude: -80.043177<br>Latitude: 40.479449]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.043177</value>
@@ -4244,7 +4172,7 @@
       <Placemark>
         <name>Munhall War Memorial</name>
         <description><![CDATA[Longitude: -79.903052<br>Latitude: 40.407807]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.903052</value>
@@ -4262,7 +4190,7 @@
       <Placemark>
         <name>Rachel Carson Park</name>
         <description><![CDATA[Longitude: -79.79488<br>Latitude: 40.538018]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.79488</value>
@@ -4280,7 +4208,7 @@
       <Placemark>
         <name>Donaldson Community Park Amphitheater</name>
         <description><![CDATA[Longitude: -80.238428<br>Latitude: 40.417429]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.238428</value>
@@ -4296,27 +4224,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Turtles In the Park</name>
-        <description><![CDATA[Longitude: -80.095884<br>Latitude: 40.39341]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
-        <ExtendedData>
-          <Data name="Longitude">
-            <value>-80.095884</value>
-          </Data>
-          <Data name="Latitude">
-            <value>40.39341</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            -80.095884,40.39341,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Schenley Oval Sportsplex</name>
         <description><![CDATA[Longitude: -79.943578<br>Latitude: 40.431505]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.943578</value>
@@ -4334,7 +4244,7 @@
       <Placemark>
         <name>Marshall Island</name>
         <description><![CDATA[Longitude: -80.020988<br>Latitude: 40.614058]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.020988</value>
@@ -4350,27 +4260,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Union Park</name>
-        <description><![CDATA[Longitude: -79.994472<br>Latitude: 40.360057]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
-        <ExtendedData>
-          <Data name="Longitude">
-            <value>-79.994472</value>
-          </Data>
-          <Data name="Latitude">
-            <value>40.360057</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            -79.994472,40.360057,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Jerry James Field</name>
         <description><![CDATA[Longitude: -80.081304<br>Latitude: 40.430491]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.081304</value>
@@ -4388,7 +4280,7 @@
       <Placemark>
         <name>Giffin Avenue Hockey Court</name>
         <description><![CDATA[Longitude: -79.984072<br>Latitude: 40.407046]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.984072</value>
@@ -4406,7 +4298,7 @@
       <Placemark>
         <name>Hereos of Freedom Memorial</name>
         <description><![CDATA[Longitude: -80.268886<br>Latitude: 40.465292]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.268886</value>
@@ -4424,7 +4316,7 @@
       <Placemark>
         <name>Galapagos Tortoise</name>
         <description><![CDATA[Longitude: -79.919356<br>Latitude: 40.481784]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.919356</value>
@@ -4442,7 +4334,7 @@
       <Placemark>
         <name>Rock Climbing Balls</name>
         <description><![CDATA[Longitude: -79.433498<br>Latitude: 40.287763]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.433498</value>
@@ -4460,7 +4352,7 @@
       <Placemark>
         <name>Renaissance Chapel</name>
         <description><![CDATA[Longitude: -79.696981<br>Latitude: 40.180633]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.696981</value>
@@ -4478,7 +4370,7 @@
       <Placemark>
         <name>Crown Stage</name>
         <description><![CDATA[Longitude: -79.698334<br>Latitude: 40.179886]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.698334</value>
@@ -4496,7 +4388,7 @@
       <Placemark>
         <name>Overlook Shelter and Playground</name>
         <description><![CDATA[Longitude: -79.947526<br>Latitude: 40.432181]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.947526</value>
@@ -4514,7 +4406,7 @@
       <Placemark>
         <name>Dr. Jackson Pogue Pavillion</name>
         <description><![CDATA[Longitude: -79.750884<br>Latitude: 40.387312]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.750884</value>
@@ -4532,7 +4424,7 @@
       <Placemark>
         <name>Meadow Park</name>
         <description><![CDATA[Longitude: -79.920331<br>Latitude: 40.500012]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.920331</value>
@@ -4550,7 +4442,7 @@
       <Placemark>
         <name>Burrell Lake Park</name>
         <description><![CDATA[Longitude: -79.688474<br>Latitude: 40.579321]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.688474</value>
@@ -4568,7 +4460,7 @@
       <Placemark>
         <name>Stone Elephants</name>
         <description><![CDATA[Longitude: -79.919708<br>Latitude: 40.485004]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.919708</value>
@@ -4586,7 +4478,7 @@
       <Placemark>
         <name>Frick Park OLEA</name>
         <description><![CDATA[Longitude: -79.907451<br>Latitude: 40.431467]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.907451</value>
@@ -4604,7 +4496,7 @@
       <Placemark>
         <name>Highland Park Super Playground</name>
         <description><![CDATA[Longitude: -79.918139<br>Latitude: 40.480422]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.918139</value>
@@ -4622,7 +4514,7 @@
       <Placemark>
         <name>Elias Fry Barn</name>
         <description><![CDATA[Longitude: -80.11797<br>Latitude: 40.658895]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.11797</value>
@@ -4640,7 +4532,7 @@
       <Placemark>
         <name>Shuffleboard Courts</name>
         <description><![CDATA[Longitude: -80.10081<br>Latitude: 40.471405]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.10081</value>
@@ -4658,7 +4550,7 @@
       <Placemark>
         <name>Fifth Ward World War 1 Memorial</name>
         <description><![CDATA[Longitude: -79.960393<br>Latitude: 40.454677]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.960393</value>
@@ -4676,7 +4568,7 @@
       <Placemark>
         <name>Squaw Valley Park</name>
         <description><![CDATA[Longitude: -79.881905<br>Latitude: 40.495147]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.881905</value>
@@ -4694,7 +4586,7 @@
       <Placemark>
         <name>Star Junction Memorial Park</name>
         <description><![CDATA[Longitude: -79.761042<br>Latitude: 40.063078]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.761042</value>
@@ -4712,7 +4604,7 @@
       <Placemark>
         <name>Loucks Park</name>
         <description><![CDATA[Longitude: -79.586795<br>Latitude: 40.104577]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.586795</value>
@@ -4730,7 +4622,7 @@
       <Placemark>
         <name>Apache Pavilion</name>
         <description><![CDATA[Longitude: -80.158532<br>Latitude: 40.427068]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.158532</value>
@@ -4748,7 +4640,7 @@
       <Placemark>
         <name>Bud Harris Cycling Track</name>
         <description><![CDATA[Longitude: -79.909173<br>Latitude: 40.476141]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.909173</value>
@@ -4766,7 +4658,7 @@
       <Placemark>
         <name><![CDATA[Hand's Hospital]]></name>
         <description><![CDATA[Longitude: -80.07338<br>Latitude: 40.439105]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.07338</value>
@@ -4784,7 +4676,7 @@
       <Placemark>
         <name>Highland Park Oak Grove</name>
         <description><![CDATA[Longitude: -79.912667<br>Latitude: 40.479243]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.912667</value>
@@ -4802,7 +4694,7 @@
       <Placemark>
         <name>Boyce Park East Entrance</name>
         <description><![CDATA[Longitude: -79.748385<br>Latitude: 40.47208]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.748385</value>
@@ -4820,7 +4712,7 @@
       <Placemark>
         <name>Memorial Garden</name>
         <description><![CDATA[Longitude: -80.054967<br>Latitude: 40.37435]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.054967</value>
@@ -4838,7 +4730,7 @@
       <Placemark>
         <name>Rotary International Pavilion</name>
         <description><![CDATA[Longitude: -80.051735<br>Latitude: 40.418705]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.051735</value>
@@ -4854,27 +4746,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Tower Field</name>
-        <description><![CDATA[Longitude: -80.039984<br>Latitude: 40.414217]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
-        <ExtendedData>
-          <Data name="Longitude">
-            <value>-80.039984</value>
-          </Data>
-          <Data name="Latitude">
-            <value>40.414217</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            -80.039984,40.414217,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Hackberry</name>
         <description><![CDATA[Longitude: -79.672744<br>Latitude: 40.42455]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.672744</value>
@@ -4892,7 +4766,7 @@
       <Placemark>
         <name>Trillium Trail</name>
         <description><![CDATA[Longitude: -79.89544<br>Latitude: 40.51822]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.89544</value>
@@ -4910,7 +4784,7 @@
       <Placemark>
         <name>Universal Memorial Park</name>
         <description><![CDATA[Longitude: -79.784801<br>Latitude: 40.470847]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.784801</value>
@@ -4928,7 +4802,7 @@
       <Placemark>
         <name>Burkett Recreational Park</name>
         <description><![CDATA[Longitude: -80.129402<br>Latitude: 40.444524]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.129402</value>
@@ -4946,7 +4820,7 @@
       <Placemark>
         <name>Thornburg Park</name>
         <description><![CDATA[Longitude: -80.080683<br>Latitude: 40.435889]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.080683</value>
@@ -4962,27 +4836,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Monroeville Pavillion Number 2</name>
-        <description><![CDATA[Longitude: -79.765951<br>Latitude: 40.417838]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
-        <ExtendedData>
-          <Data name="Longitude">
-            <value>-79.765951</value>
-          </Data>
-          <Data name="Latitude">
-            <value>40.417838</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            -79.765951,40.417838,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Redwood 1 Pavilion</name>
         <description><![CDATA[Longitude: -79.80106<br>Latitude: 40.337549]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.80106</value>
@@ -5000,7 +4856,7 @@
       <Placemark>
         <name>Wall Memorial Park</name>
         <description><![CDATA[Longitude: -80.060519<br>Latitude: 40.565064]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.060519</value>
@@ -5018,7 +4874,7 @@
       <Placemark>
         <name>White Oak Park Bocce Pit</name>
         <description><![CDATA[Longitude: -79.791741<br>Latitude: 40.345645]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.791741</value>
@@ -5036,7 +4892,7 @@
       <Placemark>
         <name><![CDATA[Willow Pavilion & Playground]]></name>
         <description><![CDATA[Longitude: -79.799123<br>Latitude: 40.334336]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-79.799123</value>
@@ -5054,7 +4910,7 @@
       <Placemark>
         <name>McDonald Skatepark</name>
         <description><![CDATA[Longitude: -80.242848<br>Latitude: 40.365725]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.242848</value>
@@ -5072,7 +4928,7 @@
       <Placemark>
         <name>Elliott Shelter</name>
         <description><![CDATA[Longitude: -80.133866<br>Latitude: 40.466619]]></description>
-        <styleUrl>#icon-1720-097138</styleUrl>
+        <styleUrl>#icon-1886-097138</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
             <value>-80.133866</value>
@@ -5089,7 +4945,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>Confirmed EX Gyms</name>
+      <name>Gyms that have hosted EX Raids</name>
       <Placemark>
         <name>Whitey Soergel Fields</name>
         <description><![CDATA[Longitude: -80.109752<br>Latitude: 40.660938]]></description>
@@ -5231,6 +5087,24 @@
         <Point>
           <coordinates>
             -80.04474,40.398453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Martin's Cabin]]></name>
+        <description><![CDATA[Longitude: -79.945763<br>Latitude: 40.432907]]></description>
+        <styleUrl>#icon-1713-817717</styleUrl>
+        <ExtendedData>
+          <Data name="Longitude">
+            <value>-79.945763</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.432907</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.945763,40.432907,0
           </coordinates>
         </Point>
       </Placemark>
@@ -5775,6 +5649,24 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Eric J. Revo Jr. Baseball Field</name>
+        <description><![CDATA[Longitude: -79.955835<br>Latitude: 40.382604]]></description>
+        <styleUrl>#icon-1713-817717</styleUrl>
+        <ExtendedData>
+          <Data name="Longitude">
+            <value>-79.955835</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.382604</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.955835,40.382604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Allegheny Arsenal</name>
         <description><![CDATA[Longitude: -79.960469<br>Latitude: 40.467105]]></description>
         <styleUrl>#icon-1713-817717</styleUrl>
@@ -6207,6 +6099,24 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Catahecassa Blackhoof War Chief of the Shawnees</name>
+        <description><![CDATA[Longitude: -79.935613<br>Latitude: 40.435491]]></description>
+        <styleUrl>#icon-1713-817717</styleUrl>
+        <ExtendedData>
+          <Data name="Longitude">
+            <value>-79.935613</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.435491</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.935613,40.435491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Violet H. Brendel</name>
         <description><![CDATA[Longitude: -79.825391<br>Latitude: 40.33784]]></description>
         <styleUrl>#icon-1713-817717</styleUrl>
@@ -6311,6 +6221,24 @@
         <Point>
           <coordinates>
             -79.993541,40.28288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>African Lion Exhibit Sign</name>
+        <description><![CDATA[Longitude: -79.919311<br>Latitude: 40.484044]]></description>
+        <styleUrl>#icon-1713-817717</styleUrl>
+        <ExtendedData>
+          <Data name="Longitude">
+            <value>-79.919311</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.484044</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.919311,40.484044,0
           </coordinates>
         </Point>
       </Placemark>
@@ -6585,6 +6513,24 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Turtles In the Park</name>
+        <description><![CDATA[Longitude: -80.095884<br>Latitude: 40.39341]]></description>
+        <styleUrl>#icon-1713-817717</styleUrl>
+        <ExtendedData>
+          <Data name="Longitude">
+            <value>-80.095884</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.39341</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.095884,40.39341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Ross Township Honor Roll</name>
         <description><![CDATA[Longitude: -80.049875<br>Latitude: 40.505418]]></description>
         <styleUrl>#icon-1713-817717</styleUrl>
@@ -6617,6 +6563,24 @@
         <Point>
           <coordinates>
             -79.908358,40.405913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Union Park</name>
+        <description><![CDATA[Longitude: -79.994472<br>Latitude: 40.360057]]></description>
+        <styleUrl>#icon-1713-817717</styleUrl>
+        <ExtendedData>
+          <Data name="Longitude">
+            <value>-79.994472</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.360057</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.994472,40.360057,0
           </coordinates>
         </Point>
       </Placemark>
@@ -6891,6 +6855,24 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Tower Field</name>
+        <description><![CDATA[Longitude: -80.039984<br>Latitude: 40.414217]]></description>
+        <styleUrl>#icon-1713-817717</styleUrl>
+        <ExtendedData>
+          <Data name="Longitude">
+            <value>-80.039984</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.414217</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.039984,40.414217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Fort Duquesne</name>
         <description><![CDATA[Longitude: -80.010935<br>Latitude: 40.441613]]></description>
         <styleUrl>#icon-1713-817717</styleUrl>
@@ -6977,6 +6959,42 @@
         <Point>
           <coordinates>
             -80.156812,40.424509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monroeville Pavillion Number 2</name>
+        <description><![CDATA[Longitude: -79.765951<br>Latitude: 40.417838]]></description>
+        <styleUrl>#icon-1713-817717</styleUrl>
+        <ExtendedData>
+          <Data name="Longitude">
+            <value>-79.765951</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.417838</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.765951,40.417838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lind Field</name>
+        <description><![CDATA[Longitude: -80.104145<br>Latitude: 40.472766]]></description>
+        <styleUrl>#icon-1713-817717</styleUrl>
+        <ExtendedData>
+          <Data name="Longitude">
+            <value>-80.104145</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.472766</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.104145,40.472766,0
           </coordinates>
         </Point>
       </Placemark>
@@ -12524,6 +12542,24 @@
         <Point>
           <coordinates>
             -79.979366,40.424841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crossroad Christian Outreach Ministries</name>
+        <description><![CDATA[Longitude: -79.617177<br>Latitude: 40.322593]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Longitude">
+            <value>-79.617177</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.322593</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.617177,40.322593,0
           </coordinates>
         </Point>
       </Placemark>
@@ -20124,6 +20160,24 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>First Baptist Church Of Jeannette</name>
+        <description><![CDATA[Longitude: -79.612975<br>Latitude: 40.329428]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Longitude">
+            <value>-79.612975</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.329428</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.612975,40.329428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Plum Creek Cross</name>
         <description><![CDATA[Longitude: -79.750841<br>Latitude: 40.49416]]></description>
         <styleUrl>#icon-1739-000000</styleUrl>
@@ -22842,6 +22896,24 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Oakwood Park Stone Reservoir Tennis Courts</name>
+        <description><![CDATA[Longitude: -80.066403<br>Latitude: 40.4264]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Longitude">
+            <value>-80.066403</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.4264</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.066403,40.4264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Bellevue Chipmunk Memorial</name>
         <description><![CDATA[Longitude: -80.042548<br>Latitude: 40.503934]]></description>
         <styleUrl>#icon-1739-000000</styleUrl>
@@ -22856,6 +22928,24 @@
         <Point>
           <coordinates>
             -80.042548,40.503934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Korean United Presbyterian Church</name>
+        <description><![CDATA[Longitude: -80.018637<br>Latitude: 40.542038]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Longitude">
+            <value>-80.018637</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.542038</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.018637,40.542038,0
           </coordinates>
         </Point>
       </Placemark>
@@ -23342,6 +23432,24 @@
         <Point>
           <coordinates>
             -79.966369,40.444387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Westmoreland Chamber Of Commerce</name>
+        <description><![CDATA[Longitude: -79.573968<br>Latitude: 40.305892]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Longitude">
+            <value>-79.573968</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.305892</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.573968,40.305892,0
           </coordinates>
         </Point>
       </Placemark>
@@ -40068,6 +40176,24 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Marburger Field</name>
+        <description><![CDATA[Longitude: -80.033231<br>Latitude: 40.736819]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Longitude">
+            <value>-80.033231</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.736819</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.033231,40.736819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name><![CDATA[Gulentz's Angel]]></name>
         <description><![CDATA[Longitude: -79.905082<br>Latitude: 40.440144]]></description>
         <styleUrl>#icon-1739-000000</styleUrl>
@@ -40082,6 +40208,24 @@
         <Point>
           <coordinates>
             -79.905082,40.440144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gantry Crane</name>
+        <description><![CDATA[Longitude: -79.92045<br>Latitude: 40.406592]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Longitude">
+            <value>-79.92045</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.406592</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.92045,40.406592,0
           </coordinates>
         </Point>
       </Placemark>
@@ -40442,6 +40586,24 @@
         <Point>
           <coordinates>
             -80.089177,40.394289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Heritage Baptist Church</name>
+        <description><![CDATA[Longitude: -79.618749<br>Latitude: 40.315852]]></description>
+        <styleUrl>#icon-1739-000000</styleUrl>
+        <ExtendedData>
+          <Data name="Longitude">
+            <value>-79.618749</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.315852</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.618749,40.315852,0
           </coordinates>
         </Point>
       </Placemark>
@@ -41328,20 +41490,20 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Lind Field</name>
-        <description><![CDATA[Longitude: -80.104145<br>Latitude: 40.472766]]></description>
+        <name>Springhill Waterfall</name>
+        <description><![CDATA[Longitude: -79.392794<br>Latitude: 40.28158]]></description>
         <styleUrl>#icon-1739-000000</styleUrl>
         <ExtendedData>
           <Data name="Longitude">
-            <value>-80.104145</value>
+            <value>-79.392794</value>
           </Data>
           <Data name="Latitude">
-            <value>40.472766</value>
+            <value>40.28158</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            -80.104145,40.472766,0
+            -79.392794,40.28158,0
           </coordinates>
         </Point>
       </Placemark>
