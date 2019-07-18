@@ -1293,6 +1293,7 @@
 	},
 	"05caa91fcf654db08343477462f1fe80.16": {
 		"hasExTag": true,
+		"hasHostedEx": true
 		"additionalInformation": "Please do not park in the roundabout."
 	},
 	"0b59a31674844c31a7344c50febebd98.16": {
@@ -1407,7 +1408,8 @@
 		"hasExTag": true
 	},
 	"a9d260c9a04c44299660d2af7fcfc80a.16": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"ae19ca580aff48a591a7c3219bcc6df1.16": {
 		"additionalInformation": "Please park in Green Tree Park by the Walking Track and walk over to the field to access this gym."
