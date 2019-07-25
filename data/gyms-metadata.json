@@ -597,7 +597,8 @@
 		"hasExTag": true
 	},
 	"1021108": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"1025944": {
 		"hasExTag": true
@@ -711,7 +712,8 @@
 		"additionalInformation": "The Post Office does *not* appreciate parking in their lot for raids.  Please be considerate."
 	},
 	"1200967": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"1204050": {
 		"nickname": "Les Getz Memorial Park (Church St)",
@@ -1341,7 +1343,8 @@
 		"hasExTag": true
 	},
 	"56149d1e6b6a49e8966acb7c47da181a.16": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"5e839cd34c364ee0aa19869f54212218.16": {
 		"hasExTag": true,
@@ -1390,7 +1393,8 @@
 		"hasHostedEx": true
 	},
 	"8ceb66f20e654d91a1b86c8dcb744883.16": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"906c9927aaad420893db01c5e4f11049.16": {
 		"nickname": "Westmoreland Conservation District Stormwater Trail"
