@@ -71,7 +71,8 @@
 		"nickname": "Memorial Garden (Beaver)"
 	},
 	"116147": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"121314": {
 		"nickname": "United Presbyterian Church (West Sunbury)"
