@@ -1293,7 +1293,8 @@
 		"additionalInformation": "Duplicate Alert: If you meant O'Block Playground Boyce Park on Monroeville Trestle Rd, type `!gym Oblock Playground` to change it."
 	},
 	"033659d1f8634ae88d27664becf0d9ee.16": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"05caa91fcf654db08343477462f1fe80.16": {
 		"hasExTag": true,
