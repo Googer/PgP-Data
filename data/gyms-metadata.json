@@ -171,7 +171,8 @@
 		"hasExTag": true
 	},
 	"273168": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"281269": {
 		"hasExTag": true
@@ -314,7 +315,8 @@
 		"nickname": "US Post Office (Koppel)"
 	},
 	"497189": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"504230": {
 		"nickname": "Baptist Church (McDonald)"
@@ -445,7 +447,8 @@
 		"additionalInformation": "Use caution raiding here!\n\nThis area has indicated that they do not want others here.  Additionally they've occasionally put up speed bumps and signs to deter people from driving faster than 5 mph."
 	},
 	"689016": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"702837": {
 		"nickname": "Calvary Baptist Church (Middle Hill)"
@@ -590,7 +593,8 @@
 		"hasExTag": true
 	},
 	"983098": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"989312": {
 		"hasExTag": true
@@ -794,7 +798,8 @@
 		"hasHostedEx": true
 	},
 	"2456544": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"2456609": {
 		"hasExTag": true,
@@ -1452,6 +1457,10 @@
 		"additionalInformation": "Directions: Park in the Duff Park parking lot off of School Road. This gym is about 1/4 mile walk down the bike trail.",
 		"hasExTag": true
 	},
+	"c45c49b80d67445b93f51cf2f7e94b5c.16": {
+		"hasExTag": true,
+		"hasHostedEx": true
+	},
 	"c474fd19a75147e096209201b872b32c.16": {
 		"hasExTag": true
 	},
@@ -1469,7 +1478,7 @@
 		"hasExTag": true
 	},
 	"e0d9b14af18c45528951ccce263ea451.12": {
-		"nickname": "Allegheny Observatory (Landmark Sign)"
+		"nickname": "Allegheny Observatory Historical Marker"
 	},
 	"e4fb121bb28444a380b5bc92a1f0a946.16": {
 		"hasExTag": true,
